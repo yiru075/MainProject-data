@@ -1,0 +1,1321 @@
+suburb,flag,property_type,count,median,postcode,lat,long,match_status
+Albert Park,group_1,1 Bed Flat,194,425,3206,-37.846534,144.95086,match
+Albert Park,group_1,2 Bed Flat,156,600,3206,-37.846534,144.95086,match
+Albert Park,group_1,3 bed flat,19,860,3206,-37.846534,144.95086,match
+Albert Park,group_1,2 bed house,76,738,3206,-37.846534,144.95086,match
+Albert Park,group_1,3 Bed House,86,1140,3206,-37.846534,144.95086,match
+Albert Park,group_1,4 bed house,27,1475,3206,-37.846534,144.95086,match
+Middle Park,group_1,1 Bed Flat,194,425,3206,-37.846534,144.95086,match
+Middle Park,group_1,2 Bed Flat,156,600,3206,-37.846534,144.95086,match
+Middle Park,group_1,3 bed flat,19,860,3206,-37.846534,144.95086,match
+Middle Park,group_1,2 bed house,76,738,3206,-37.846534,144.95086,match
+Middle Park,group_1,3 Bed House,86,1140,3206,-37.846534,144.95086,match
+Middle Park,group_1,4 bed house,27,1475,3206,-37.846534,144.95086,match
+Mitcham,group_100,1 Bed Flat,53,385,3132,-37.819222,145.196686,match
+Mitcham,group_100,2 Bed Flat,227,460,3132,-37.819222,145.196686,match
+Mitcham,group_100,3 bed flat,94,595,3132,-37.819222,145.196686,match
+Mitcham,group_100,2 bed house,56,480,3132,-37.819222,145.196686,match
+Mitcham,group_100,3 Bed House,179,560,3132,-37.819222,145.196686,match
+Mitcham,group_100,4 bed house,60,678,3132,-37.819222,145.196686,match
+Nunawading,group_100,1 Bed Flat,53,385,3131,-37.817798,145.174489,match
+Nunawading,group_100,2 Bed Flat,227,460,3131,-37.817798,145.174489,match
+Nunawading,group_100,3 bed flat,94,595,3131,-37.817798,145.174489,match
+Nunawading,group_100,2 bed house,56,480,3131,-37.817798,145.174489,match
+Nunawading,group_100,3 Bed House,179,560,3131,-37.817798,145.174489,match
+Nunawading,group_100,4 bed house,60,678,3131,-37.817798,145.174489,match
+Fawkner,group_101,1 Bed Flat,81,370,3060,-37.707326,144.967874,match
+Fawkner,group_101,2 Bed Flat,476,450,3060,-37.707326,144.967874,match
+Fawkner,group_101,3 bed flat,245,550,3060,-37.707326,144.967874,match
+Fawkner,group_101,2 bed house,101,450,3060,-37.707326,144.967874,match
+Fawkner,group_101,3 Bed House,356,510,3060,-37.707326,144.967874,match
+Fawkner,group_101,4 bed house,77,600,3060,-37.707326,144.967874,match
+Glenroy,group_101,1 Bed Flat,81,370,3046,-37.706578,144.927968,match
+Glenroy,group_101,2 Bed Flat,476,450,3046,-37.706578,144.927968,match
+Glenroy,group_101,3 bed flat,245,550,3046,-37.706578,144.927968,match
+Glenroy,group_101,2 bed house,101,450,3046,-37.706578,144.927968,match
+Glenroy,group_101,3 Bed House,356,510,3046,-37.706578,144.927968,match
+Glenroy,group_101,4 bed house,77,600,3046,-37.706578,144.927968,match
+Oak Park,group_101,1 Bed Flat,81,370,3046,-37.706578,144.927968,match
+Oak Park,group_101,2 Bed Flat,476,450,3046,-37.706578,144.927968,match
+Oak Park,group_101,3 bed flat,245,550,3046,-37.706578,144.927968,match
+Oak Park,group_101,2 bed house,101,450,3046,-37.706578,144.927968,match
+Oak Park,group_101,3 Bed House,356,510,3046,-37.706578,144.927968,match
+Oak Park,group_101,4 bed house,77,600,3046,-37.706578,144.927968,match
+Barwon Heads,group_102,1 Bed Flat,16,290,3227,-38.263052,144.40814,match
+Barwon Heads,group_102,2 Bed Flat,43,445,3227,-38.263052,144.40814,match
+Barwon Heads,group_102,3 bed flat,38,530,3227,-38.263052,144.40814,match
+Barwon Heads,group_102,2 bed house,16,450,3227,-38.263052,144.40814,match
+Barwon Heads,group_102,3 Bed House,173,530,3227,-38.263052,144.40814,match
+Barwon Heads,group_102,4 bed house,165,600,3227,-38.263052,144.40814,match
+Ocean Grove,group_102,1 Bed Flat,16,290,3226,-38.263811,144.523761,match
+Ocean Grove,group_102,2 Bed Flat,43,445,3226,-38.263811,144.523761,match
+Ocean Grove,group_102,3 bed flat,38,530,3226,-38.263811,144.523761,match
+Ocean Grove,group_102,2 bed house,16,450,3226,-38.263811,144.523761,match
+Ocean Grove,group_102,3 Bed House,173,530,3226,-38.263811,144.523761,match
+Ocean Grove,group_102,4 bed house,165,600,3226,-38.263811,144.523761,match
+Coburg North,group_104,1 Bed Flat,47,280,3058,-37.739901,144.964524,match
+Coburg North,group_104,2 Bed Flat,290,460,3058,-37.739901,144.964524,match
+Coburg North,group_104,3 bed flat,105,585,3058,-37.739901,144.964524,match
+Coburg North,group_104,2 bed house,88,480,3058,-37.739901,144.964524,match
+Coburg North,group_104,3 Bed House,148,578,3058,-37.739901,144.964524,match
+Coburg North,group_104,4 bed house,50,718,3058,-37.739901,144.964524,match
+Pascoe Vale,group_104,1 Bed Flat,47,280,3044,-37.731138,144.936356,match
+Pascoe Vale,group_104,2 Bed Flat,290,460,3044,-37.731138,144.936356,match
+Pascoe Vale,group_104,3 bed flat,105,585,3044,-37.731138,144.936356,match
+Pascoe Vale,group_104,2 bed house,88,480,3044,-37.731138,144.936356,match
+Pascoe Vale,group_104,3 Bed House,148,578,3044,-37.731138,144.936356,match
+Pascoe Vale,group_104,4 bed house,50,718,3044,-37.731138,144.936356,match
+Prahran,group_107,1 Bed Flat,728,430,3181,-37.854683,144.995504,match
+Prahran,group_107,2 Bed Flat,750,600,3181,-37.854683,144.995504,match
+Prahran,group_107,3 bed flat,80,883,3181,-37.854683,144.995504,match
+Prahran,group_107,2 bed house,179,725,3181,-37.854683,144.995504,match
+Prahran,group_107,3 Bed House,151,950,3181,-37.854683,144.995504,match
+Prahran,group_107,4 bed house,26,1275,3181,-37.854683,144.995504,match
+Windsor,group_107,1 Bed Flat,728,430,3181,-37.854683,144.995504,match
+Windsor,group_107,2 Bed Flat,750,600,3181,-37.854683,144.995504,match
+Windsor,group_107,3 bed flat,80,883,3181,-37.854683,144.995504,match
+Windsor,group_107,2 bed house,179,725,3181,-37.854683,144.995504,match
+Windsor,group_107,3 Bed House,151,950,3181,-37.854683,144.995504,match
+Windsor,group_107,4 bed house,26,1275,3181,-37.854683,144.995504,match
+Burnley,group_110,1 Bed Flat,863,475,3121,-37.823303,145.001788,match
+Burnley,group_110,2 Bed Flat,876,650,3121,-37.823303,145.001788,match
+Burnley,group_110,3 bed flat,123,950,3121,-37.823303,145.001788,match
+Burnley,group_110,2 bed house,255,700,3121,-37.823303,145.001788,match
+Burnley,group_110,3 Bed House,230,915,3121,-37.823303,145.001788,match
+Burnley,group_110,4 bed house,43,1200,3121,-37.823303,145.001788,match
+Richmond,group_110,1 Bed Flat,863,475,3121,-37.823303,145.001788,match
+Richmond,group_110,2 Bed Flat,876,650,3121,-37.823303,145.001788,match
+Richmond,group_110,3 bed flat,123,950,3121,-37.823303,145.001788,match
+Richmond,group_110,2 bed house,255,700,3121,-37.823303,145.001788,match
+Richmond,group_110,3 Bed House,230,915,3121,-37.823303,145.001788,match
+Richmond,group_110,4 bed house,43,1200,3121,-37.823303,145.001788,match
+Maffra,group_113,1 Bed Flat,41,260,3860,-37.571707,146.805175,match
+Maffra,group_113,2 Bed Flat,147,360,3860,-37.571707,146.805175,match
+Maffra,group_113,3 bed flat,44,445,3860,-37.571707,146.805175,match
+Maffra,group_113,2 bed house,55,385,3860,-37.571707,146.805175,match
+Maffra,group_113,3 Bed House,247,420,3860,-37.571707,146.805175,match
+Maffra,group_113,4 bed house,168,500,3860,-37.571707,146.805175,match
+Sale,group_113,1 Bed Flat,41,260,3850,-38.224191,147.106181,match
+Sale,group_113,1 Bed Flat,41,260,3853,-38.095569,146.059953,match
+Sale,group_113,2 Bed Flat,147,360,3850,-38.224191,147.106181,match
+Sale,group_113,2 Bed Flat,147,360,3853,-38.095569,146.059953,match
+Sale,group_113,3 bed flat,44,445,3850,-38.224191,147.106181,match
+Sale,group_113,3 bed flat,44,445,3853,-38.095569,146.059953,match
+Sale,group_113,2 bed house,55,385,3850,-38.224191,147.106181,match
+Sale,group_113,2 bed house,55,385,3853,-38.095569,146.059953,match
+Sale,group_113,3 Bed House,247,420,3850,-38.224191,147.106181,match
+Sale,group_113,3 Bed House,247,420,3853,-38.095569,146.059953,match
+Sale,group_113,4 bed house,168,500,3850,-38.224191,147.106181,match
+Sale,group_113,4 bed house,168,500,3853,-38.095569,146.059953,match
+Carrum Downs,group_114,1 Bed Flat,56,335,3201,-38.092874,145.177905,match
+Carrum Downs,group_114,2 Bed Flat,214,425,3201,-38.092874,145.177905,match
+Carrum Downs,group_114,3 bed flat,162,495,3201,-38.092874,145.177905,match
+Carrum Downs,group_114,2 bed house,37,450,3201,-38.092874,145.177905,match
+Carrum Downs,group_114,3 Bed House,512,500,3201,-38.092874,145.177905,match
+Carrum Downs,group_114,4 bed house,201,600,3201,-38.092874,145.177905,match
+Seaford,group_114,1 Bed Flat,56,335,3198,-38.103194,145.137811,match
+Seaford,group_114,2 Bed Flat,214,425,3198,-38.103194,145.137811,match
+Seaford,group_114,3 bed flat,162,495,3198,-38.103194,145.137811,match
+Seaford,group_114,2 bed house,37,450,3198,-38.103194,145.137811,match
+Seaford,group_114,3 Bed House,512,500,3198,-38.103194,145.137811,match
+Seaford,group_114,4 bed house,201,600,3198,-38.103194,145.137811,match
+Delacombe,group_115,1 Bed Flat,77,260,3356,-37.592283,143.82846,match
+Delacombe,group_115,2 Bed Flat,116,330,3356,-37.592283,143.82846,match
+Delacombe,group_115,3 bed flat,40,355,3356,-37.592283,143.82846,match
+Delacombe,group_115,2 bed house,46,340,3356,-37.592283,143.82846,match
+Delacombe,group_115,3 Bed House,330,388,3356,-37.592283,143.82846,match
+Delacombe,group_115,4 bed house,681,450,3356,-37.592283,143.82846,match
+Sebastopol,group_115,1 Bed Flat,77,260,3356,-37.592283,143.82846,match
+Sebastopol,group_115,2 Bed Flat,116,330,3356,-37.592283,143.82846,match
+Sebastopol,group_115,3 bed flat,40,355,3356,-37.592283,143.82846,match
+Sebastopol,group_115,2 bed house,46,340,3356,-37.592283,143.82846,match
+Sebastopol,group_115,3 Bed House,330,388,3356,-37.592283,143.82846,match
+Sebastopol,group_115,4 bed house,681,450,3356,-37.592283,143.82846,match
+Deer Park,group_122,1 Bed Flat,62,320,3023,-37.78272,144.770641,match
+Deer Park,group_122,2 Bed Flat,309,370,3023,-37.78272,144.770641,match
+Deer Park,group_122,3 bed flat,198,418,3023,-37.78272,144.770641,match
+Deer Park,group_122,2 bed house,42,380,3023,-37.78272,144.770641,match
+Deer Park,group_122,3 Bed House,701,420,3023,-37.78272,144.770641,match
+Deer Park,group_122,4 bed house,193,500,3023,-37.78272,144.770641,match
+St Albans,group_122,1 Bed Flat,62,320,3021,-37.743361,144.796693,match
+St Albans,group_122,2 Bed Flat,309,370,3021,-37.743361,144.796693,match
+St Albans,group_122,3 bed flat,198,418,3021,-37.743361,144.796693,match
+St Albans,group_122,2 bed house,42,380,3021,-37.743361,144.796693,match
+St Albans,group_122,3 Bed House,701,420,3021,-37.743361,144.796693,match
+St Albans,group_122,4 bed house,193,500,3021,-37.743361,144.796693,match
+Lalor,group_128,1 Bed Flat,23,335,3075,-37.66607,145.002679,match
+Lalor,group_128,2 Bed Flat,214,400,3075,-37.66607,145.002679,match
+Lalor,group_128,3 bed flat,85,485,3075,-37.66607,145.002679,match
+Lalor,group_128,2 bed house,36,420,3075,-37.66607,145.002679,match
+Lalor,group_128,3 Bed House,388,450,3075,-37.66607,145.002679,match
+Lalor,group_128,4 bed house,80,515,3075,-37.66607,145.002679,match
+Thomastown,group_128,1 Bed Flat,23,335,3074,-37.684684,145.006644,match
+Thomastown,group_128,2 Bed Flat,214,400,3074,-37.684684,145.006644,match
+Thomastown,group_128,3 bed flat,85,485,3074,-37.684684,145.006644,match
+Thomastown,group_128,2 bed house,36,420,3074,-37.684684,145.006644,match
+Thomastown,group_128,3 Bed House,388,450,3074,-37.684684,145.006644,match
+Thomastown,group_128,4 bed house,80,515,3074,-37.684684,145.006644,match
+Burwood East,group_133,1 Bed Flat,69,480,3151,-37.85523,145.151119,match
+Burwood East,group_133,2 Bed Flat,244,550,3151,-37.85523,145.151119,match
+Burwood East,group_133,3 bed flat,75,600,3151,-37.85523,145.151119,match
+Burwood East,group_133,2 bed house,27,480,3151,-37.85523,145.151119,match
+Burwood East,group_133,3 Bed House,281,560,3151,-37.85523,145.151119,match
+Burwood East,group_133,4 bed house,217,680,3151,-37.85523,145.151119,match
+Forest Hill,group_133,1 Bed Flat,69,480,3131,-37.817798,145.174489,match
+Forest Hill,group_133,2 Bed Flat,244,550,3131,-37.817798,145.174489,match
+Forest Hill,group_133,3 bed flat,75,600,3131,-37.817798,145.174489,match
+Forest Hill,group_133,2 bed house,27,480,3131,-37.817798,145.174489,match
+Forest Hill,group_133,3 Bed House,281,560,3131,-37.817798,145.174489,match
+Forest Hill,group_133,4 bed house,217,680,3131,-37.817798,145.174489,match
+Vermont,group_133,1 Bed Flat,69,480,3133,-37.848786,145.192303,match
+Vermont,group_133,2 Bed Flat,244,550,3133,-37.848786,145.192303,match
+Vermont,group_133,3 bed flat,75,600,3133,-37.848786,145.192303,match
+Vermont,group_133,2 bed house,27,480,3133,-37.848786,145.192303,match
+Vermont,group_133,3 Bed House,281,560,3133,-37.848786,145.192303,match
+Vermont,group_133,4 bed house,217,680,3133,-37.848786,145.192303,match
+Scoresby,group_135,1 Bed Flat,22,400,3179,-37.897137,145.222634,match
+Scoresby,group_135,2 Bed Flat,97,490,3179,-37.897137,145.222634,match
+Scoresby,group_135,3 bed flat,135,550,3179,-37.897137,145.222634,match
+Scoresby,group_135,2 bed house,14,480,3179,-37.897137,145.222634,match
+Scoresby,group_135,3 Bed House,283,550,3179,-37.897137,145.222634,match
+Scoresby,group_135,4 bed house,234,650,3179,-37.897137,145.222634,match
+Wantirna,group_135,1 Bed Flat,22,400,3152,-37.864951,145.221695,match
+Wantirna,group_135,2 Bed Flat,97,490,3152,-37.864951,145.221695,match
+Wantirna,group_135,3 bed flat,135,550,3152,-37.864951,145.221695,match
+Wantirna,group_135,2 bed house,14,480,3152,-37.864951,145.221695,match
+Wantirna,group_135,3 Bed House,283,550,3152,-37.864951,145.221695,match
+Wantirna,group_135,4 bed house,234,650,3152,-37.864951,145.221695,match
+Alfredton,group_138,1 Bed Flat,57,240,3350,-37.571941,143.864505,match
+Alfredton,group_138,2 Bed Flat,104,330,3350,-37.571941,143.864505,match
+Alfredton,group_138,3 bed flat,38,390,3350,-37.571941,143.864505,match
+Alfredton,group_138,2 bed house,77,350,3350,-37.571941,143.864505,match
+Alfredton,group_138,3 Bed House,483,390,3350,-37.571941,143.864505,match
+Alfredton,group_138,4 bed house,620,460,3350,-37.571941,143.864505,match
+Wendouree,group_138,1 Bed Flat,57,240,3355,-37.530285,143.82561,match
+Wendouree,group_138,2 Bed Flat,104,330,3355,-37.530285,143.82561,match
+Wendouree,group_138,3 bed flat,38,390,3355,-37.530285,143.82561,match
+Wendouree,group_138,2 bed house,77,350,3355,-37.530285,143.82561,match
+Wendouree,group_138,3 Bed House,483,390,3355,-37.530285,143.82561,match
+Wendouree,group_138,4 bed house,620,460,3355,-37.530285,143.82561,match
+Hoppers Crossing,group_139,1 Bed Flat,58,330,3029,-37.837165,144.705831,match
+Hoppers Crossing,group_139,2 Bed Flat,429,365,3029,-37.837165,144.705831,match
+Hoppers Crossing,group_139,3 bed flat,291,415,3029,-37.837165,144.705831,match
+Hoppers Crossing,group_139,2 bed house,131,390,3029,-37.837165,144.705831,match
+Hoppers Crossing,group_139,3 Bed House,2746,440,3029,-37.837165,144.705831,match
+Hoppers Crossing,group_139,4 bed house,4060,500,3029,-37.837165,144.705831,match
+Werribee,group_139,1 Bed Flat,58,330,3030,-37.91624,144.64209,match
+Werribee,group_139,2 Bed Flat,429,365,3030,-37.91624,144.64209,match
+Werribee,group_139,3 bed flat,291,415,3030,-37.91624,144.64209,match
+Werribee,group_139,2 bed house,131,390,3030,-37.91624,144.64209,match
+Werribee,group_139,3 Bed House,2746,440,3030,-37.91624,144.64209,match
+Werribee,group_139,4 bed house,4060,500,3030,-37.91624,144.64209,match
+Seddon,group_146,1 Bed Flat,140,325,3011,-37.807101,144.907953,match
+Seddon,group_146,2 Bed Flat,250,480,3011,-37.807101,144.907953,match
+Seddon,group_146,3 bed flat,51,650,3011,-37.807101,144.907953,match
+Seddon,group_146,2 bed house,180,590,3011,-37.807101,144.907953,match
+Seddon,group_146,3 Bed House,272,650,3011,-37.807101,144.907953,match
+Seddon,group_146,4 bed house,57,850,3011,-37.807101,144.907953,match
+Yarraville,group_146,1 Bed Flat,140,325,3013,-37.814183,144.888686,match
+Yarraville,group_146,2 Bed Flat,250,480,3013,-37.814183,144.888686,match
+Yarraville,group_146,3 bed flat,51,650,3013,-37.814183,144.888686,match
+Yarraville,group_146,2 bed house,180,590,3013,-37.814183,144.888686,match
+Yarraville,group_146,3 Bed House,272,650,3013,-37.814183,144.888686,match
+Yarraville,group_146,4 bed house,57,850,3013,-37.814183,144.888686,match
+Broadmeadows,group_19,1 Bed Flat,51,300,3047,-37.681105,144.930247,match
+Broadmeadows,group_19,2 Bed Flat,145,410,3047,-37.681105,144.930247,match
+Broadmeadows,group_19,3 bed flat,116,450,3047,-37.681105,144.930247,match
+Broadmeadows,group_19,2 bed house,50,420,3047,-37.681105,144.930247,match
+Broadmeadows,group_19,3 Bed House,528,450,3047,-37.681105,144.930247,match
+Broadmeadows,group_19,4 bed house,349,570,3047,-37.681105,144.930247,match
+Roxburgh Park,group_19,1 Bed Flat,51,300,3064,-37.546522,144.942199,match
+Roxburgh Park,group_19,2 Bed Flat,145,410,3064,-37.546522,144.942199,match
+Roxburgh Park,group_19,3 bed flat,116,450,3064,-37.546522,144.942199,match
+Roxburgh Park,group_19,2 bed house,50,420,3064,-37.546522,144.942199,match
+Roxburgh Park,group_19,3 Bed House,528,450,3064,-37.546522,144.942199,match
+Roxburgh Park,group_19,4 bed house,349,570,3064,-37.546522,144.942199,match
+Bulleen,group_21,1 Bed Flat,144,450,3105,-37.772477,145.084806,match
+Bulleen,group_21,2 Bed Flat,442,550,3105,-37.772477,145.084806,match
+Bulleen,group_21,3 bed flat,209,675,3105,-37.772477,145.084806,match
+Bulleen,group_21,2 bed house,36,483,3105,-37.772477,145.084806,match
+Bulleen,group_21,3 Bed House,286,600,3105,-37.772477,145.084806,match
+Bulleen,group_21,4 bed house,374,785,3105,-37.772477,145.084806,match
+Doncaster,group_21,1 Bed Flat,144,450,3108,-37.786429,145.125797,match
+Doncaster,group_21,2 Bed Flat,442,550,3108,-37.786429,145.125797,match
+Doncaster,group_21,3 bed flat,209,675,3108,-37.786429,145.125797,match
+Doncaster,group_21,2 bed house,36,483,3108,-37.786429,145.125797,match
+Doncaster,group_21,3 Bed House,286,600,3108,-37.786429,145.125797,match
+Doncaster,group_21,4 bed house,374,785,3108,-37.786429,145.125797,match
+Templestowe,group_21,1 Bed Flat,144,450,3106,-37.758335,145.142675,match
+Templestowe,group_21,2 Bed Flat,442,550,3106,-37.758335,145.142675,match
+Templestowe,group_21,3 bed flat,209,675,3106,-37.758335,145.142675,match
+Templestowe,group_21,2 bed house,36,483,3106,-37.758335,145.142675,match
+Templestowe,group_21,3 Bed House,286,600,3106,-37.758335,145.142675,match
+Templestowe,group_21,4 bed house,374,785,3106,-37.758335,145.142675,match
+Bundoora,group_22,1 Bed Flat,166,380,3083,-37.701346,145.056223,match
+Bundoora,group_22,2 Bed Flat,458,450,3083,-37.701346,145.056223,match
+Bundoora,group_22,3 bed flat,191,530,3083,-37.701346,145.056223,match
+Bundoora,group_22,2 bed house,79,440,3083,-37.701346,145.056223,match
+Bundoora,group_22,3 Bed House,723,510,3083,-37.701346,145.056223,match
+Bundoora,group_22,4 bed house,526,560,3083,-37.701346,145.056223,match
+Greensborough,group_22,1 Bed Flat,166,380,3088,-37.700175,145.108339,match
+Greensborough,group_22,2 Bed Flat,458,450,3088,-37.700175,145.108339,match
+Greensborough,group_22,3 bed flat,191,530,3088,-37.700175,145.108339,match
+Greensborough,group_22,2 bed house,79,440,3088,-37.700175,145.108339,match
+Greensborough,group_22,3 Bed House,723,510,3088,-37.700175,145.108339,match
+Greensborough,group_22,4 bed house,526,560,3088,-37.700175,145.108339,match
+Hurstbridge,group_22,1 Bed Flat,166,380,3099,-37.592101,145.192854,match
+Hurstbridge,group_22,2 Bed Flat,458,450,3099,-37.592101,145.192854,match
+Hurstbridge,group_22,3 bed flat,191,530,3099,-37.592101,145.192854,match
+Hurstbridge,group_22,2 bed house,79,440,3099,-37.592101,145.192854,match
+Hurstbridge,group_22,3 Bed House,723,510,3099,-37.592101,145.192854,match
+Hurstbridge,group_22,4 bed house,526,560,3099,-37.592101,145.192854,match
+Ashburton,group_23,1 Bed Flat,99,350,3147,-37.867864,145.092946,match
+Ashburton,group_23,2 Bed Flat,247,500,3147,-37.867864,145.092946,match
+Ashburton,group_23,3 bed flat,127,680,3147,-37.867864,145.092946,match
+Ashburton,group_23,2 bed house,45,500,3147,-37.867864,145.092946,match
+Ashburton,group_23,3 Bed House,171,600,3147,-37.867864,145.092946,match
+Ashburton,group_23,4 bed house,120,765,3147,-37.867864,145.092946,match
+Burwood,group_23,1 Bed Flat,99,350,3125,-37.851305,145.101,match
+Burwood,group_23,2 Bed Flat,247,500,3125,-37.851305,145.101,match
+Burwood,group_23,3 bed flat,127,680,3125,-37.851305,145.101,match
+Burwood,group_23,2 bed house,45,500,3125,-37.851305,145.101,match
+Burwood,group_23,3 Bed House,171,600,3125,-37.851305,145.101,match
+Burwood,group_23,4 bed house,120,765,3125,-37.851305,145.101,match
+Camberwell,group_24,1 Bed Flat,208,430,3124,-37.840867,145.068191,match
+Camberwell,group_24,2 Bed Flat,573,550,3124,-37.840867,145.068191,match
+Camberwell,group_24,3 bed flat,181,750,3124,-37.840867,145.068191,match
+Camberwell,group_24,2 bed house,37,550,3124,-37.840867,145.068191,match
+Camberwell,group_24,3 Bed House,152,805,3124,-37.840867,145.068191,match
+Camberwell,group_24,4 bed house,164,1100,3124,-37.840867,145.068191,match
+Glen Iris,group_24,1 Bed Flat,208,430,3146,-37.857116,145.057833,match
+Glen Iris,group_24,2 Bed Flat,573,550,3146,-37.857116,145.057833,match
+Glen Iris,group_24,3 bed flat,181,750,3146,-37.857116,145.057833,match
+Glen Iris,group_24,2 bed house,37,550,3146,-37.857116,145.057833,match
+Glen Iris,group_24,3 Bed House,152,805,3146,-37.857116,145.057833,match
+Glen Iris,group_24,4 bed house,164,1100,3146,-37.857116,145.057833,match
+Canterbury,group_25,1 Bed Flat,47,420,3126,-37.827203,145.075748,match
+Canterbury,group_25,2 Bed Flat,266,540,3126,-37.827203,145.075748,match
+Canterbury,group_25,3 bed flat,71,705,3126,-37.827203,145.075748,match
+Canterbury,group_25,2 bed house,24,592,3126,-37.827203,145.075748,match
+Canterbury,group_25,3 Bed House,69,750,3126,-37.827203,145.075748,match
+Canterbury,group_25,4 bed house,89,1050,3126,-37.827203,145.075748,match
+Mont Albert,group_25,1 Bed Flat,47,420,3127,-37.825173,145.097236,match
+Mont Albert,group_25,2 Bed Flat,266,540,3127,-37.825173,145.097236,match
+Mont Albert,group_25,3 bed flat,71,705,3127,-37.825173,145.097236,match
+Mont Albert,group_25,2 bed house,24,592,3127,-37.825173,145.097236,match
+Mont Albert,group_25,3 Bed House,69,750,3127,-37.825173,145.097236,match
+Mont Albert,group_25,4 bed house,89,1050,3127,-37.825173,145.097236,match
+Surrey Hills,group_25,1 Bed Flat,47,420,3127,-37.825173,145.097236,match
+Surrey Hills,group_25,2 Bed Flat,266,540,3127,-37.825173,145.097236,match
+Surrey Hills,group_25,3 bed flat,71,705,3127,-37.825173,145.097236,match
+Surrey Hills,group_25,2 bed house,24,592,3127,-37.825173,145.097236,match
+Surrey Hills,group_25,3 Bed House,69,750,3127,-37.825173,145.097236,match
+Surrey Hills,group_25,4 bed house,89,1050,3127,-37.825173,145.097236,match
+Carlton,group_27,1 Bed Flat,1031,450,3053,-37.803569,144.966112,match
+Carlton,group_27,2 Bed Flat,1165,640,3053,-37.803569,144.966112,match
+Carlton,group_27,3 bed flat,104,845,3053,-37.803569,144.966112,match
+Carlton,group_27,2 bed house,51,650,3053,-37.803569,144.966112,match
+Carlton,group_27,3 Bed House,48,823,3053,-37.803569,144.966112,match
+Carlton,group_27,4 bed house,29,1100,3053,-37.803569,144.966112,match
+Parkville,group_27,1 Bed Flat,1031,450,3052,-37.788996,144.948903,match
+Parkville,group_27,2 Bed Flat,1165,640,3052,-37.788996,144.948903,match
+Parkville,group_27,3 bed flat,104,845,3052,-37.788996,144.948903,match
+Parkville,group_27,2 bed house,51,650,3052,-37.788996,144.948903,match
+Parkville,group_27,3 Bed House,48,823,3052,-37.788996,144.948903,match
+Parkville,group_27,4 bed house,29,1100,3052,-37.788996,144.948903,match
+Chadstone,group_32,1 Bed Flat,114,450,3148,-37.882562,145.090149,match
+Chadstone,group_32,2 Bed Flat,344,520,3148,-37.882562,145.090149,match
+Chadstone,group_32,3 bed flat,170,645,3148,-37.882562,145.090149,match
+Chadstone,group_32,2 bed house,32,533,3148,-37.882562,145.090149,match
+Chadstone,group_32,3 Bed House,177,590,3148,-37.882562,145.090149,match
+Chadstone,group_32,4 bed house,58,750,3148,-37.882562,145.090149,match
+Oakleigh,group_32,1 Bed Flat,114,450,3166,-37.902805,145.089719,match
+Oakleigh,group_32,2 Bed Flat,344,520,3166,-37.902805,145.089719,match
+Oakleigh,group_32,3 bed flat,170,645,3166,-37.902805,145.089719,match
+Oakleigh,group_32,2 bed house,32,533,3166,-37.902805,145.089719,match
+Oakleigh,group_32,3 Bed House,177,590,3166,-37.902805,145.089719,match
+Oakleigh,group_32,4 bed house,58,750,3166,-37.902805,145.089719,match
+Coburg,group_35,1 Bed Flat,149,400,3058,-37.739901,144.964524,match
+Coburg,group_35,2 Bed Flat,328,490,3058,-37.739901,144.964524,match
+Coburg,group_35,3 bed flat,73,650,3058,-37.739901,144.964524,match
+Coburg,group_35,2 bed house,124,550,3058,-37.739901,144.964524,match
+Coburg,group_35,3 Bed House,240,650,3058,-37.739901,144.964524,match
+Coburg,group_35,4 bed house,85,750,3058,-37.739901,144.964524,match
+Pascoe Vale South,group_35,1 Bed Flat,149,400,3044,-37.731138,144.936356,match
+Pascoe Vale South,group_35,2 Bed Flat,328,490,3044,-37.731138,144.936356,match
+Pascoe Vale South,group_35,3 bed flat,73,650,3044,-37.731138,144.936356,match
+Pascoe Vale South,group_35,2 bed house,124,550,3044,-37.731138,144.936356,match
+Pascoe Vale South,group_35,3 Bed House,240,650,3044,-37.731138,144.936356,match
+Pascoe Vale South,group_35,4 bed house,85,750,3044,-37.731138,144.936356,match
+Abbotsford,group_36,1 Bed Flat,665,494,3067,-37.803515,144.998203,match
+Abbotsford,group_36,2 Bed Flat,758,650,3067,-37.803515,144.998203,match
+Abbotsford,group_36,3 bed flat,76,964,3067,-37.803515,144.998203,match
+Abbotsford,group_36,2 bed house,102,698,3067,-37.803515,144.998203,match
+Abbotsford,group_36,3 Bed House,73,875,3067,-37.803515,144.998203,match
+Abbotsford,group_36,4 bed house,0,0,3067,-37.803515,144.998203,match
+Collingwood,group_36,1 Bed Flat,665,494,3066,-37.804846,144.986906,match
+Collingwood,group_36,2 Bed Flat,758,650,3066,-37.804846,144.986906,match
+Collingwood,group_36,3 bed flat,76,964,3066,-37.804846,144.986906,match
+Collingwood,group_36,2 bed house,102,698,3066,-37.804846,144.986906,match
+Collingwood,group_36,3 Bed House,73,875,3066,-37.804846,144.986906,match
+Collingwood,group_36,4 bed house,0,0,3066,-37.804846,144.986906,match
+Aspendale,group_4,1 Bed Flat,29,350,3195,-38.007024,145.104105,match
+Aspendale,group_4,2 Bed Flat,371,465,3195,-38.007024,145.104105,match
+Aspendale,group_4,3 bed flat,171,625,3195,-38.007024,145.104105,match
+Aspendale,group_4,2 bed house,43,490,3195,-38.007024,145.104105,match
+Aspendale,group_4,3 Bed House,237,615,3195,-38.007024,145.104105,match
+Aspendale,group_4,4 bed house,111,750,3195,-38.007024,145.104105,match
+Carrum,group_4,1 Bed Flat,29,350,3197,-38.072748,145.134111,match
+Carrum,group_4,2 Bed Flat,371,465,3197,-38.072748,145.134111,match
+Carrum,group_4,3 bed flat,171,625,3197,-38.072748,145.134111,match
+Carrum,group_4,2 bed house,43,490,3197,-38.072748,145.134111,match
+Carrum,group_4,3 Bed House,237,615,3197,-38.072748,145.134111,match
+Carrum,group_4,4 bed house,111,750,3197,-38.072748,145.134111,match
+Chelsea,group_4,1 Bed Flat,29,350,3196,-38.046479,145.122762,match
+Chelsea,group_4,2 Bed Flat,371,465,3196,-38.046479,145.122762,match
+Chelsea,group_4,3 bed flat,171,625,3196,-38.046479,145.122762,match
+Chelsea,group_4,2 bed house,43,490,3196,-38.046479,145.122762,match
+Chelsea,group_4,3 Bed House,237,615,3196,-38.046479,145.122762,match
+Chelsea,group_4,4 bed house,111,750,3196,-38.046479,145.122762,match
+Croydon,group_40,1 Bed Flat,49,330,3136,-37.779876,145.282396,match
+Croydon,group_40,2 Bed Flat,402,450,3136,-37.779876,145.282396,match
+Croydon,group_40,3 bed flat,264,550,3136,-37.779876,145.282396,match
+Croydon,group_40,2 bed house,94,450,3136,-37.779876,145.282396,match
+Croydon,group_40,3 Bed House,716,540,3136,-37.779876,145.282396,match
+Croydon,group_40,4 bed house,251,670,3136,-37.779876,145.282396,match
+Lilydale,group_40,1 Bed Flat,49,330,3140,-37.759154,145.363185,match
+Lilydale,group_40,2 Bed Flat,402,450,3140,-37.759154,145.363185,match
+Lilydale,group_40,3 bed flat,264,550,3140,-37.759154,145.363185,match
+Lilydale,group_40,2 bed house,94,450,3140,-37.759154,145.363185,match
+Lilydale,group_40,3 Bed House,716,540,3140,-37.759154,145.363185,match
+Lilydale,group_40,4 bed house,251,670,3140,-37.759154,145.363185,match
+Dandenong North,group_42,1 Bed Flat,56,305,3175,-38.016114,145.208504,match
+Dandenong North,group_42,2 Bed Flat,159,420,3175,-38.016114,145.208504,match
+Dandenong North,group_42,3 bed flat,96,490,3175,-38.016114,145.208504,match
+Dandenong North,group_42,2 bed house,32,392,3175,-38.016114,145.208504,match
+Dandenong North,group_42,3 Bed House,449,470,3175,-38.016114,145.208504,match
+Dandenong North,group_42,4 bed house,123,570,3175,-38.016114,145.208504,match
+Endeavour Hills,group_42,1 Bed Flat,56,305,3802,-37.971763,145.255599,match
+Endeavour Hills,group_42,2 Bed Flat,159,420,3802,-37.971763,145.255599,match
+Endeavour Hills,group_42,3 bed flat,96,490,3802,-37.971763,145.255599,match
+Endeavour Hills,group_42,2 bed house,32,392,3802,-37.971763,145.255599,match
+Endeavour Hills,group_42,3 Bed House,449,470,3802,-37.971763,145.255599,match
+Endeavour Hills,group_42,4 bed house,123,570,3802,-37.971763,145.255599,match
+Doncaster East,group_44,1 Bed Flat,30,430,3109,-37.784786,145.161649,match
+Doncaster East,group_44,2 Bed Flat,232,525,3109,-37.784786,145.161649,match
+Doncaster East,group_44,3 bed flat,142,630,3109,-37.784786,145.161649,match
+Doncaster East,group_44,2 bed house,25,480,3109,-37.784786,145.161649,match
+Doncaster East,group_44,3 Bed House,178,623,3109,-37.784786,145.161649,match
+Doncaster East,group_44,4 bed house,204,780,3109,-37.784786,145.161649,match
+Donvale,group_44,1 Bed Flat,30,430,3111,-37.794054,145.186334,match
+Donvale,group_44,2 Bed Flat,232,525,3111,-37.794054,145.186334,match
+Donvale,group_44,3 bed flat,142,630,3111,-37.794054,145.186334,match
+Donvale,group_44,2 bed house,25,480,3111,-37.794054,145.186334,match
+Donvale,group_44,3 Bed House,178,623,3111,-37.794054,145.186334,match
+Donvale,group_44,4 bed house,204,780,3111,-37.794054,145.186334,match
+Dromana,group_45,1 Bed Flat,19,360,3936,-38.326447,145.007626,match
+Dromana,group_45,2 Bed Flat,181,440,3936,-38.326447,145.007626,match
+Dromana,group_45,3 bed flat,170,550,3936,-38.326447,145.007626,match
+Dromana,group_45,2 bed house,147,450,3936,-38.326447,145.007626,match
+Dromana,group_45,3 Bed House,728,530,3936,-38.326447,145.007626,match
+Dromana,group_45,4 bed house,308,695,3936,-38.326447,145.007626,match
+Portsea,group_45,1 Bed Flat,19,360,3944,-38.321871,144.692708,match
+Portsea,group_45,2 Bed Flat,181,440,3944,-38.321871,144.692708,match
+Portsea,group_45,3 bed flat,170,550,3944,-38.321871,144.692708,match
+Portsea,group_45,2 bed house,147,450,3944,-38.321871,144.692708,match
+Portsea,group_45,3 Bed House,728,530,3944,-38.321871,144.692708,match
+Portsea,group_45,4 bed house,308,695,3944,-38.321871,144.692708,match
+Eltham,group_52,1 Bed Flat,31,350,3095,-37.713299,145.158579,match
+Eltham,group_52,2 Bed Flat,96,440,3095,-37.713299,145.158579,match
+Eltham,group_52,3 bed flat,61,560,3095,-37.713299,145.158579,match
+Eltham,group_52,2 bed house,25,460,3095,-37.713299,145.158579,match
+Eltham,group_52,3 Bed House,159,600,3095,-37.713299,145.158579,match
+Eltham,group_52,4 bed house,99,700,3095,-37.713299,145.158579,match
+Montmorency,group_52,1 Bed Flat,31,350,3094,-37.719759,145.124727,match
+Montmorency,group_52,2 Bed Flat,96,440,3094,-37.719759,145.124727,match
+Montmorency,group_52,3 bed flat,61,560,3094,-37.719759,145.124727,match
+Montmorency,group_52,2 bed house,25,460,3094,-37.719759,145.124727,match
+Montmorency,group_52,3 Bed House,159,600,3094,-37.719759,145.124727,match
+Montmorency,group_52,4 bed house,99,700,3094,-37.719759,145.124727,match
+Research,group_52,1 Bed Flat,31,350,3095,-37.713299,145.158579,match
+Research,group_52,2 Bed Flat,96,440,3095,-37.713299,145.158579,match
+Research,group_52,3 bed flat,61,560,3095,-37.713299,145.158579,match
+Research,group_52,2 bed house,25,460,3095,-37.713299,145.158579,match
+Research,group_52,3 Bed House,159,600,3095,-37.713299,145.158579,match
+Research,group_52,4 bed house,99,700,3095,-37.713299,145.158579,match
+Alphington,group_55,1 Bed Flat,200,360,3078,-37.778298,145.025853,match
+Alphington,group_55,2 Bed Flat,190,520,3078,-37.778298,145.025853,match
+Alphington,group_55,3 bed flat,38,798,3078,-37.778298,145.025853,match
+Alphington,group_55,2 bed house,28,645,3078,-37.778298,145.025853,match
+Alphington,group_55,3 Bed House,64,800,3078,-37.778298,145.025853,match
+Alphington,group_55,4 bed house,30,950,3078,-37.778298,145.025853,match
+Fairfield,group_55,1 Bed Flat,200,360,3078,-37.778298,145.025853,match
+Fairfield,group_55,2 Bed Flat,190,520,3078,-37.778298,145.025853,match
+Fairfield,group_55,3 bed flat,38,798,3078,-37.778298,145.025853,match
+Fairfield,group_55,2 bed house,28,645,3078,-37.778298,145.025853,match
+Fairfield,group_55,3 Bed House,64,800,3078,-37.778298,145.025853,match
+Fairfield,group_55,4 bed house,30,950,3078,-37.778298,145.025853,match
+Clifton Hill,group_58,1 Bed Flat,198,425,3068,-37.790974,144.98622,match
+Clifton Hill,group_58,2 Bed Flat,217,600,3068,-37.790974,144.98622,match
+Clifton Hill,group_58,3 bed flat,40,858,3068,-37.790974,144.98622,match
+Clifton Hill,group_58,2 bed house,149,700,3068,-37.790974,144.98622,match
+Clifton Hill,group_58,3 Bed House,120,899,3068,-37.790974,144.98622,match
+Clifton Hill,group_58,4 bed house,30,1200,3068,-37.790974,144.98622,match
+Fitzroy North,group_58,1 Bed Flat,198,425,3068,-37.790974,144.98622,match
+Fitzroy North,group_58,2 Bed Flat,217,600,3068,-37.790974,144.98622,match
+Fitzroy North,group_58,3 bed flat,40,858,3068,-37.790974,144.98622,match
+Fitzroy North,group_58,2 bed house,149,700,3068,-37.790974,144.98622,match
+Fitzroy North,group_58,3 Bed House,120,899,3068,-37.790974,144.98622,match
+Fitzroy North,group_58,4 bed house,30,1200,3068,-37.790974,144.98622,match
+Flemington,group_59,1 Bed Flat,352,425,3031,-37.79119,144.923403,match
+Flemington,group_59,2 Bed Flat,536,500,3031,-37.79119,144.923403,match
+Flemington,group_59,3 bed flat,38,650,3031,-37.79119,144.923403,match
+Flemington,group_59,2 bed house,142,600,3031,-37.79119,144.923403,match
+Flemington,group_59,3 Bed House,115,730,3031,-37.79119,144.923403,match
+Flemington,group_59,4 bed house,22,900,3031,-37.79119,144.923403,match
+Kensington,group_59,1 Bed Flat,352,425,3031,-37.79119,144.923403,match
+Kensington,group_59,2 Bed Flat,536,500,3031,-37.79119,144.923403,match
+Kensington,group_59,3 bed flat,38,650,3031,-37.79119,144.923403,match
+Kensington,group_59,2 bed house,142,600,3031,-37.79119,144.923403,match
+Kensington,group_59,3 Bed House,115,730,3031,-37.79119,144.923403,match
+Kensington,group_59,4 bed house,22,900,3031,-37.79119,144.923403,match
+Flora Hill,group_60,1 Bed Flat,27,280,3550,-36.764269,144.285267,match
+Flora Hill,group_60,2 Bed Flat,165,350,3550,-36.764269,144.285267,match
+Flora Hill,group_60,3 bed flat,63,430,3550,-36.764269,144.285267,match
+Flora Hill,group_60,2 bed house,70,385,3550,-36.764269,144.285267,match
+Flora Hill,group_60,3 Bed House,318,440,3550,-36.764269,144.285267,match
+Flora Hill,group_60,4 bed house,101,500,3550,-36.764269,144.285267,match
+Geelong,group_63,1 Bed Flat,169,350,3220,-38.157038,144.34652,match
+Geelong,group_63,2 Bed Flat,311,440,3220,-38.157038,144.34652,match
+Geelong,group_63,3 bed flat,92,488,3220,-38.157038,144.34652,match
+Geelong,group_63,2 bed house,95,420,3220,-38.157038,144.34652,match
+Geelong,group_63,3 Bed House,373,450,3220,-38.157038,144.34652,match
+Geelong,group_63,4 bed house,67,540,3220,-38.157038,144.34652,match
+Newcomb,group_63,1 Bed Flat,169,350,3219,-38.17277,144.389533,match
+Newcomb,group_63,2 Bed Flat,311,440,3219,-38.17277,144.389533,match
+Newcomb,group_63,3 bed flat,92,488,3219,-38.17277,144.389533,match
+Newcomb,group_63,2 bed house,95,420,3219,-38.17277,144.389533,match
+Newcomb,group_63,3 Bed House,373,450,3219,-38.17277,144.389533,match
+Newcomb,group_63,4 bed house,67,540,3219,-38.17277,144.389533,match
+Gladstone Park,group_64,1 Bed Flat,12,323,3043,-37.691916,144.888368,match
+Gladstone Park,group_64,2 Bed Flat,86,420,3043,-37.691916,144.888368,match
+Gladstone Park,group_64,3 bed flat,68,490,3043,-37.691916,144.888368,match
+Gladstone Park,group_64,2 bed house,17,450,3043,-37.691916,144.888368,match
+Gladstone Park,group_64,3 Bed House,197,480,3043,-37.691916,144.888368,match
+Gladstone Park,group_64,4 bed house,62,550,3043,-37.691916,144.888368,match
+Tullamarine,group_64,1 Bed Flat,12,323,3043,-37.691916,144.888368,match
+Tullamarine,group_64,2 Bed Flat,86,420,3043,-37.691916,144.888368,match
+Tullamarine,group_64,3 bed flat,68,490,3043,-37.691916,144.888368,match
+Tullamarine,group_64,2 bed house,17,450,3043,-37.691916,144.888368,match
+Tullamarine,group_64,3 Bed House,197,480,3043,-37.691916,144.888368,match
+Tullamarine,group_64,4 bed house,62,550,3043,-37.691916,144.888368,match
+Glen Waverley,group_65,1 Bed Flat,66,470,3150,-37.876968,145.170841,match
+Glen Waverley,group_65,2 Bed Flat,254,560,3150,-37.876968,145.170841,match
+Glen Waverley,group_65,3 bed flat,198,620,3150,-37.876968,145.170841,match
+Glen Waverley,group_65,2 bed house,24,523,3150,-37.876968,145.170841,match
+Glen Waverley,group_65,3 Bed House,467,585,3150,-37.876968,145.170841,match
+Glen Waverley,group_65,4 bed house,479,700,3150,-37.876968,145.170841,match
+Mulgrave,group_65,1 Bed Flat,66,470,3170,-37.920945,145.167859,match
+Mulgrave,group_65,2 Bed Flat,254,560,3170,-37.920945,145.167859,match
+Mulgrave,group_65,3 bed flat,198,620,3170,-37.920945,145.167859,match
+Mulgrave,group_65,2 bed house,24,523,3170,-37.920945,145.167859,match
+Mulgrave,group_65,3 Bed House,467,585,3170,-37.920945,145.167859,match
+Mulgrave,group_65,4 bed house,479,700,3170,-37.920945,145.167859,match
+Golden Square,group_66,1 Bed Flat,11,275,3555,-36.777226,144.245239,match
+Golden Square,group_66,2 Bed Flat,69,350,3555,-36.777226,144.245239,match
+Golden Square,group_66,3 bed flat,53,420,3555,-36.777226,144.245239,match
+Golden Square,group_66,2 bed house,38,380,3555,-36.777226,144.245239,match
+Golden Square,group_66,3 Bed House,280,440,3555,-36.777226,144.245239,match
+Golden Square,group_66,4 bed house,78,520,3555,-36.777226,144.245239,match
+Kangaroo Flat,group_66,1 Bed Flat,11,275,3555,-36.777226,144.245239,match
+Kangaroo Flat,group_66,2 Bed Flat,69,350,3555,-36.777226,144.245239,match
+Kangaroo Flat,group_66,3 bed flat,53,420,3555,-36.777226,144.245239,match
+Kangaroo Flat,group_66,2 bed house,38,380,3555,-36.777226,144.245239,match
+Kangaroo Flat,group_66,3 Bed House,280,440,3555,-36.777226,144.245239,match
+Kangaroo Flat,group_66,4 bed house,78,520,3555,-36.777226,144.245239,match
+Beaumaris,group_68,1 Bed Flat,125,450,3193,-37.978698,145.031561,match
+Beaumaris,group_68,2 Bed Flat,359,600,3193,-37.978698,145.031561,match
+Beaumaris,group_68,3 bed flat,91,795,3193,-37.978698,145.031561,match
+Beaumaris,group_68,2 bed house,39,650,3193,-37.978698,145.031561,match
+Beaumaris,group_68,3 Bed House,158,875,3193,-37.978698,145.031561,match
+Beaumaris,group_68,4 bed house,156,1250,3193,-37.978698,145.031561,match
+Hampton,group_68,1 Bed Flat,125,450,3188,-37.938889,145.007238,match
+Hampton,group_68,2 Bed Flat,359,600,3188,-37.938889,145.007238,match
+Hampton,group_68,3 bed flat,91,795,3188,-37.938889,145.007238,match
+Hampton,group_68,2 bed house,39,650,3188,-37.938889,145.007238,match
+Hampton,group_68,3 Bed House,158,875,3188,-37.938889,145.007238,match
+Hampton,group_68,4 bed house,156,1250,3188,-37.938889,145.007238,match
+Flinders,group_69,1 Bed Flat,16,330,3929,-38.460965,144.976673,match
+Flinders,group_69,2 Bed Flat,130,430,3929,-38.460965,144.976673,match
+Flinders,group_69,3 bed flat,78,513,3929,-38.460965,144.976673,match
+Flinders,group_69,2 bed house,32,450,3929,-38.460965,144.976673,match
+Flinders,group_69,3 Bed House,265,530,3929,-38.460965,144.976673,match
+Flinders,group_69,4 bed house,107,675,3929,-38.460965,144.976673,match
+Hastings,group_69,1 Bed Flat,16,330,3915,-38.305806,145.136622,match
+Hastings,group_69,2 Bed Flat,130,430,3915,-38.305806,145.136622,match
+Hastings,group_69,3 bed flat,78,513,3915,-38.305806,145.136622,match
+Hastings,group_69,2 bed house,32,450,3915,-38.305806,145.136622,match
+Hastings,group_69,3 Bed House,265,530,3915,-38.305806,145.136622,match
+Hastings,group_69,4 bed house,107,675,3915,-38.305806,145.136622,match
+Heidelberg,group_71,1 Bed Flat,207,350,3084,-37.744406,145.082685,match
+Heidelberg,group_71,2 Bed Flat,419,480,3084,-37.744406,145.082685,match
+Heidelberg,group_71,3 bed flat,155,600,3084,-37.744406,145.082685,match
+Heidelberg,group_71,2 bed house,79,445,3084,-37.744406,145.082685,match
+Heidelberg,group_71,3 Bed House,236,570,3084,-37.744406,145.082685,match
+Heidelberg,group_71,4 bed house,67,650,3084,-37.744406,145.082685,match
+Heidelberg West,group_71,1 Bed Flat,207,350,3081,-37.743008,145.046401,match
+Heidelberg West,group_71,2 Bed Flat,419,480,3081,-37.743008,145.046401,match
+Heidelberg West,group_71,3 bed flat,155,600,3081,-37.743008,145.046401,match
+Heidelberg West,group_71,2 bed house,79,445,3081,-37.743008,145.046401,match
+Heidelberg West,group_71,3 Bed House,236,570,3081,-37.743008,145.046401,match
+Heidelberg West,group_71,4 bed house,67,650,3081,-37.743008,145.046401,match
+Geelong West,group_72,1 Bed Flat,132,305,3218,-38.138728,144.330986,match
+Geelong West,group_72,2 Bed Flat,128,390,3218,-38.138728,144.330986,match
+Geelong West,group_72,3 bed flat,34,515,3218,-38.138728,144.330986,match
+Geelong West,group_72,2 bed house,62,430,3218,-38.138728,144.330986,match
+Geelong West,group_72,3 Bed House,223,500,3218,-38.138728,144.330986,match
+Geelong West,group_72,4 bed house,69,620,3218,-38.138728,144.330986,match
+Herne Hill,group_72,1 Bed Flat,132,305,3218,-38.138728,144.330986,match
+Herne Hill,group_72,2 Bed Flat,128,390,3218,-38.138728,144.330986,match
+Herne Hill,group_72,3 bed flat,34,515,3218,-38.138728,144.330986,match
+Herne Hill,group_72,2 bed house,62,430,3218,-38.138728,144.330986,match
+Herne Hill,group_72,3 Bed House,223,500,3218,-38.138728,144.330986,match
+Herne Hill,group_72,4 bed house,69,620,3218,-38.138728,144.330986,match
+Ivanhoe,group_74,1 Bed Flat,157,450,3079,-37.772675,145.048573,match
+Ivanhoe,group_74,2 Bed Flat,308,535,3079,-37.772675,145.048573,match
+Ivanhoe,group_74,3 bed flat,83,710,3079,-37.772675,145.048573,match
+Ivanhoe,group_74,2 bed house,16,570,3079,-37.772675,145.048573,match
+Ivanhoe,group_74,3 Bed House,63,690,3079,-37.772675,145.048573,match
+Ivanhoe,group_74,4 bed house,25,880,3079,-37.772675,145.048573,match
+Ivanhoe East,group_74,1 Bed Flat,157,450,3079,-37.772675,145.048573,match
+Ivanhoe East,group_74,2 Bed Flat,308,535,3079,-37.772675,145.048573,match
+Ivanhoe East,group_74,3 bed flat,83,710,3079,-37.772675,145.048573,match
+Ivanhoe East,group_74,2 bed house,16,570,3079,-37.772675,145.048573,match
+Ivanhoe East,group_74,3 Bed House,63,690,3079,-37.772675,145.048573,match
+Ivanhoe East,group_74,4 bed house,25,880,3079,-37.772675,145.048573,match
+Avondale Heights,group_76,1 Bed Flat,165,415,3034,-37.761235,144.86194,match
+Avondale Heights,group_76,2 Bed Flat,368,490,3034,-37.761235,144.86194,match
+Avondale Heights,group_76,3 bed flat,102,600,3034,-37.761235,144.86194,match
+Avondale Heights,group_76,2 bed house,46,455,3034,-37.761235,144.86194,match
+Avondale Heights,group_76,3 Bed House,257,500,3034,-37.761235,144.86194,match
+Avondale Heights,group_76,4 bed house,94,715,3034,-37.761235,144.86194,match
+Keilor East,group_76,1 Bed Flat,165,415,3033,-37.74107,144.857638,match
+Keilor East,group_76,2 Bed Flat,368,490,3033,-37.74107,144.857638,match
+Keilor East,group_76,3 bed flat,102,600,3033,-37.74107,144.857638,match
+Keilor East,group_76,2 bed house,46,455,3033,-37.74107,144.857638,match
+Keilor East,group_76,3 Bed House,257,500,3033,-37.74107,144.857638,match
+Keilor East,group_76,4 bed house,94,715,3033,-37.74107,144.857638,match
+Mentone,group_82,1 Bed Flat,178,370,3194,-37.985059,145.067356,match
+Mentone,group_82,2 Bed Flat,414,495,3194,-37.985059,145.067356,match
+Mentone,group_82,3 bed flat,101,665,3194,-37.985059,145.067356,match
+Mentone,group_82,2 bed house,54,573,3194,-37.985059,145.067356,match
+Mentone,group_82,3 Bed House,154,700,3194,-37.985059,145.067356,match
+Mentone,group_82,4 bed house,84,850,3194,-37.985059,145.067356,match
+Mordialloc,group_82,1 Bed Flat,178,370,3195,-38.007024,145.104105,match
+Mordialloc,group_82,2 Bed Flat,414,495,3195,-38.007024,145.104105,match
+Mordialloc,group_82,3 bed flat,101,665,3195,-38.007024,145.104105,match
+Mordialloc,group_82,2 bed house,54,573,3195,-38.007024,145.104105,match
+Mordialloc,group_82,3 Bed House,154,700,3195,-38.007024,145.104105,match
+Mordialloc,group_82,4 bed house,84,850,3195,-38.007024,145.104105,match
+Parkdale,group_82,1 Bed Flat,178,370,3195,-38.007024,145.104105,match
+Parkdale,group_82,2 Bed Flat,414,495,3195,-38.007024,145.104105,match
+Parkdale,group_82,3 bed flat,101,665,3195,-38.007024,145.104105,match
+Parkdale,group_82,2 bed house,54,573,3195,-38.007024,145.104105,match
+Parkdale,group_82,3 Bed House,154,700,3195,-38.007024,145.104105,match
+Parkdale,group_82,4 bed house,84,850,3195,-38.007024,145.104105,match
+Epping,group_84,1 Bed Flat,51,350,3076,-37.643598,145.022137,match
+Epping,group_84,2 Bed Flat,226,420,3076,-37.643598,145.022137,match
+Epping,group_84,3 bed flat,88,460,3076,-37.643598,145.022137,match
+Epping,group_84,2 bed house,92,430,3076,-37.643598,145.022137,match
+Epping,group_84,3 Bed House,619,480,3076,-37.643598,145.022137,match
+Epping,group_84,4 bed house,383,550,3076,-37.643598,145.022137,match
+Mill Park,group_84,1 Bed Flat,51,350,3082,-37.664858,145.065658,match
+Mill Park,group_84,2 Bed Flat,226,420,3082,-37.664858,145.065658,match
+Mill Park,group_84,3 bed flat,88,460,3082,-37.664858,145.065658,match
+Mill Park,group_84,2 bed house,92,430,3082,-37.664858,145.065658,match
+Mill Park,group_84,3 Bed House,619,480,3082,-37.664858,145.065658,match
+Mill Park,group_84,4 bed house,383,550,3082,-37.664858,145.065658,match
+Moe,group_85,1 Bed Flat,43,235,3825,-37.978862,146.342932,match
+Moe,group_85,2 Bed Flat,84,290,3825,-37.978862,146.342932,match
+Moe,group_85,3 bed flat,0,0,3825,-37.978862,146.342932,match
+Moe,group_85,2 bed house,46,320,3825,-37.978862,146.342932,match
+Moe,group_85,3 Bed House,168,369,3825,-37.978862,146.342932,match
+Moe,group_85,4 bed house,53,465,3825,-37.978862,146.342932,match
+Newborough,group_85,1 Bed Flat,43,235,3825,-37.978862,146.342932,match
+Newborough,group_85,2 Bed Flat,84,290,3825,-37.978862,146.342932,match
+Newborough,group_85,3 bed flat,0,0,3825,-37.978862,146.342932,match
+Newborough,group_85,2 bed house,46,320,3825,-37.978862,146.342932,match
+Newborough,group_85,3 Bed House,168,369,3825,-37.978862,146.342932,match
+Newborough,group_85,4 bed house,53,465,3825,-37.978862,146.342932,match
+Ascot Vale,group_86,1 Bed Flat,390,420,3032,-37.774486,144.897221,match
+Ascot Vale,group_86,2 Bed Flat,546,500,3032,-37.774486,144.897221,match
+Ascot Vale,group_86,3 bed flat,92,695,3032,-37.774486,144.897221,match
+Ascot Vale,group_86,2 bed house,132,598,3032,-37.774486,144.897221,match
+Ascot Vale,group_86,3 Bed House,186,700,3032,-37.774486,144.897221,match
+Ascot Vale,group_86,4 bed house,89,920,3032,-37.774486,144.897221,match
+Moonee Ponds,group_86,1 Bed Flat,390,420,3039,-37.766184,144.922995,match
+Moonee Ponds,group_86,2 Bed Flat,546,500,3039,-37.766184,144.922995,match
+Moonee Ponds,group_86,3 bed flat,92,695,3039,-37.766184,144.922995,match
+Moonee Ponds,group_86,2 bed house,132,598,3039,-37.766184,144.922995,match
+Moonee Ponds,group_86,3 Bed House,186,700,3039,-37.766184,144.922995,match
+Moonee Ponds,group_86,4 bed house,89,920,3039,-37.766184,144.922995,match
+Buninyong,group_88,1 Bed Flat,0,0,3357,-37.653945,143.883416,match
+Buninyong,group_88,2 Bed Flat,19,320,3357,-37.653945,143.883416,match
+Buninyong,group_88,3 bed flat,15,370,3357,-37.653945,143.883416,match
+Buninyong,group_88,2 bed house,11,350,3357,-37.653945,143.883416,match
+Buninyong,group_88,3 Bed House,65,390,3357,-37.653945,143.883416,match
+Buninyong,group_88,4 bed house,48,483,3357,-37.653945,143.883416,match
+Mount Clear,group_88,1 Bed Flat,0,0,3350,-37.571941,143.864505,match
+Mount Clear,group_88,2 Bed Flat,19,320,3350,-37.571941,143.864505,match
+Mount Clear,group_88,3 bed flat,15,370,3350,-37.571941,143.864505,match
+Mount Clear,group_88,2 bed house,11,350,3350,-37.571941,143.864505,match
+Mount Clear,group_88,3 Bed House,65,390,3350,-37.571941,143.864505,match
+Mount Clear,group_88,4 bed house,48,483,3350,-37.571941,143.864505,match
+Belmont,group_9,1 Bed Flat,105,310,3216,-38.215906,144.334005,match
+Belmont,group_9,2 Bed Flat,332,410,3216,-38.215906,144.334005,match
+Belmont,group_9,3 bed flat,120,485,3216,-38.215906,144.334005,match
+Belmont,group_9,2 bed house,75,425,3216,-38.215906,144.334005,match
+Belmont,group_9,3 Bed House,631,470,3216,-38.215906,144.334005,match
+Belmont,group_9,4 bed house,478,530,3216,-38.215906,144.334005,match
+Grovedale,group_9,1 Bed Flat,105,310,3216,-38.215906,144.334005,match
+Grovedale,group_9,2 Bed Flat,332,410,3216,-38.215906,144.334005,match
+Grovedale,group_9,3 bed flat,120,485,3216,-38.215906,144.334005,match
+Grovedale,group_9,2 bed house,75,425,3216,-38.215906,144.334005,match
+Grovedale,group_9,3 Bed House,631,470,3216,-38.215906,144.334005,match
+Grovedale,group_9,4 bed house,478,530,3216,-38.215906,144.334005,match
+Mornington,group_90,1 Bed Flat,19,400,3931,-38.230038,145.049503,match
+Mornington,group_90,2 Bed Flat,210,495,3931,-38.230038,145.049503,match
+Mornington,group_90,3 bed flat,106,600,3931,-38.230038,145.049503,match
+Mornington,group_90,2 bed house,26,550,3931,-38.230038,145.049503,match
+Mornington,group_90,3 Bed House,355,630,3931,-38.230038,145.049503,match
+Mornington,group_90,4 bed house,227,860,3931,-38.230038,145.049503,match
+Hughesdale,group_91,1 Bed Flat,189,370,3166,-37.902805,145.089719,match
+Hughesdale,group_91,2 Bed Flat,268,525,3166,-37.902805,145.089719,match
+Hughesdale,group_91,3 bed flat,70,640,3166,-37.902805,145.089719,match
+Hughesdale,group_91,2 bed house,14,535,3166,-37.902805,145.089719,match
+Hughesdale,group_91,3 Bed House,76,650,3166,-37.902805,145.089719,match
+Hughesdale,group_91,4 bed house,31,995,3166,-37.902805,145.089719,match
+Murrumbeena,group_91,1 Bed Flat,189,370,3163,-37.896497,145.057237,match
+Murrumbeena,group_91,2 Bed Flat,268,525,3163,-37.896497,145.057237,match
+Murrumbeena,group_91,3 bed flat,70,640,3163,-37.896497,145.057237,match
+Murrumbeena,group_91,2 bed house,14,535,3163,-37.896497,145.057237,match
+Murrumbeena,group_91,3 Bed House,76,650,3163,-37.896497,145.057237,match
+Murrumbeena,group_91,4 bed house,31,995,3163,-37.896497,145.057237,match
+Hampton Park,group_92,1 Bed Flat,29,400,3976,-38.043995,145.264296,match
+Hampton Park,group_92,2 Bed Flat,134,420,3976,-38.043995,145.264296,match
+Hampton Park,group_92,3 bed flat,117,480,3976,-38.043995,145.264296,match
+Hampton Park,group_92,2 bed house,67,430,3976,-38.043995,145.264296,match
+Hampton Park,group_92,3 Bed House,839,480,3976,-38.043995,145.264296,match
+Hampton Park,group_92,4 bed house,480,575,3976,-38.043995,145.264296,match
+Narre Warren,group_92,1 Bed Flat,29,400,3805,-38.037026,145.304198,match
+Narre Warren,group_92,2 Bed Flat,134,420,3805,-38.037026,145.304198,match
+Narre Warren,group_92,3 bed flat,117,480,3805,-38.037026,145.304198,match
+Narre Warren,group_92,2 bed house,67,430,3805,-38.037026,145.304198,match
+Narre Warren,group_92,3 Bed House,839,480,3805,-38.037026,145.304198,match
+Narre Warren,group_92,4 bed house,480,575,3805,-38.037026,145.304198,match
+Newport,group_93,1 Bed Flat,76,398,3015,-37.838242,144.880556,match
+Newport,group_93,2 Bed Flat,170,520,3015,-37.838242,144.880556,match
+Newport,group_93,3 bed flat,60,670,3015,-37.838242,144.880556,match
+Newport,group_93,2 bed house,67,525,3015,-37.838242,144.880556,match
+Newport,group_93,3 Bed House,163,660,3015,-37.838242,144.880556,match
+Newport,group_93,4 bed house,43,900,3015,-37.838242,144.880556,match
+Spotswood,group_93,1 Bed Flat,76,398,3015,-37.838242,144.880556,match
+Spotswood,group_93,2 Bed Flat,170,520,3015,-37.838242,144.880556,match
+Spotswood,group_93,3 bed flat,60,670,3015,-37.838242,144.880556,match
+Spotswood,group_93,2 bed house,67,525,3015,-37.838242,144.880556,match
+Spotswood,group_93,3 Bed House,163,660,3015,-37.838242,144.880556,match
+Spotswood,group_93,4 bed house,43,900,3015,-37.838242,144.880556,match
+North Melbourne,group_98,1 Bed Flat,1249,480,3051,-37.8006,144.943559,match
+North Melbourne,group_98,2 Bed Flat,1198,650,3051,-37.8006,144.943559,match
+North Melbourne,group_98,3 bed flat,148,850,3051,-37.8006,144.943559,match
+North Melbourne,group_98,2 bed house,93,620,3051,-37.8006,144.943559,match
+North Melbourne,group_98,3 Bed House,77,820,3051,-37.8006,144.943559,match
+North Melbourne,group_98,4 bed house,30,1025,3051,-37.8006,144.943559,match
+West Melbourne,group_98,1 Bed Flat,1249,480,3003,-37.810871,144.949592,match
+West Melbourne,group_98,2 Bed Flat,1198,650,3003,-37.810871,144.949592,match
+West Melbourne,group_98,3 bed flat,148,850,3003,-37.810871,144.949592,match
+West Melbourne,group_98,2 bed house,93,620,3003,-37.810871,144.949592,match
+West Melbourne,group_98,3 Bed House,77,820,3003,-37.810871,144.949592,match
+West Melbourne,group_98,4 bed house,30,1025,3003,-37.810871,144.949592,match
+Altona,single,1 Bed Flat,82,320,3018,-37.86172,144.812736,match
+Altona,single,2 Bed Flat,534,420,3018,-37.86172,144.812736,match
+Altona,single,3 bed flat,233,525,3018,-37.86172,144.812736,match
+Altona,single,2 bed house,116,430,3018,-37.86172,144.812736,match
+Altona,single,3 Bed House,1191,480,3018,-37.86172,144.812736,match
+Altona,single,4 bed house,1567,550,3018,-37.86172,144.812736,match
+Armadale,single,1 Bed Flat,154,430,3143,-37.858918,145.019393,match
+Armadale,single,2 Bed Flat,279,570,3143,-37.858918,145.019393,match
+Armadale,single,3 bed flat,39,900,3143,-37.858918,145.019393,match
+Armadale,single,2 bed house,27,775,3143,-37.858918,145.019393,match
+Armadale,single,3 Bed House,42,1050,3143,-37.858918,145.019393,match
+Armadale,single,4 bed house,12,1325,3143,-37.858918,145.019393,match
+Bairnsdale,single,1 Bed Flat,12,283,3875,-37.826032,147.63201,match
+Bairnsdale,single,2 Bed Flat,65,340,3875,-37.826032,147.63201,match
+Bairnsdale,single,3 bed flat,12,390,3875,-37.826032,147.63201,match
+Bairnsdale,single,2 bed house,26,350,3875,-37.826032,147.63201,match
+Bairnsdale,single,3 Bed House,153,440,3875,-37.826032,147.63201,match
+Bairnsdale,single,4 bed house,68,520,3875,-37.826032,147.63201,match
+Ballarat,single,1 Bed Flat,58,275,3350,-37.571941,143.864505,match
+Ballarat,single,1 Bed Flat,58,275,3353,-37.7778,144.835743,match
+Ballarat,single,2 Bed Flat,167,340,3350,-37.571941,143.864505,match
+Ballarat,single,2 Bed Flat,167,340,3353,-37.7778,144.835743,match
+Ballarat,single,3 bed flat,83,390,3350,-37.571941,143.864505,match
+Ballarat,single,3 bed flat,83,390,3353,-37.7778,144.835743,match
+Ballarat,single,2 bed house,178,345,3350,-37.571941,143.864505,match
+Ballarat,single,2 bed house,178,345,3353,-37.7778,144.835743,match
+Ballarat,single,3 Bed House,596,390,3350,-37.571941,143.864505,match
+Ballarat,single,3 Bed House,596,390,3353,-37.7778,144.835743,match
+Ballarat,single,4 bed house,192,463,3350,-37.571941,143.864505,match
+Ballarat,single,4 bed house,192,463,3353,-37.7778,144.835743,match
+Balwyn,single,1 Bed Flat,53,450,3103,-37.811738,145.074116,match
+Balwyn,single,2 Bed Flat,248,520,3103,-37.811738,145.074116,match
+Balwyn,single,3 bed flat,96,743,3103,-37.811738,145.074116,match
+Balwyn,single,2 bed house,25,550,3103,-37.811738,145.074116,match
+Balwyn,single,3 Bed House,150,700,3103,-37.811738,145.074116,match
+Balwyn,single,4 bed house,174,950,3103,-37.811738,145.074116,match
+Bayswater,single,1 Bed Flat,11,355,3153,-37.845116,145.270141,match
+Bayswater,single,2 Bed Flat,149,440,3153,-37.845116,145.270141,match
+Bayswater,single,3 bed flat,98,531,3153,-37.845116,145.270141,match
+Bayswater,single,2 bed house,21,410,3153,-37.845116,145.270141,match
+Bayswater,single,3 Bed House,156,520,3153,-37.845116,145.270141,match
+Bayswater,single,4 bed house,47,615,3153,-37.845116,145.270141,match
+Benalla,single,1 Bed Flat,29,230,3671,-36.385144,145.420691,match
+Benalla,single,1 Bed Flat,29,230,3672,-36.554936,145.977761,match
+Benalla,single,1 Bed Flat,29,230,3673,-36.669929,146.062514,match
+Benalla,single,2 Bed Flat,82,345,3671,-36.385144,145.420691,match
+Benalla,single,2 Bed Flat,82,345,3672,-36.554936,145.977761,match
+Benalla,single,2 Bed Flat,82,345,3673,-36.669929,146.062514,match
+Benalla,single,3 bed flat,22,390,3671,-36.385144,145.420691,match
+Benalla,single,3 bed flat,22,390,3672,-36.554936,145.977761,match
+Benalla,single,3 bed flat,22,390,3673,-36.669929,146.062514,match
+Benalla,single,2 bed house,28,350,3671,-36.385144,145.420691,match
+Benalla,single,2 bed house,28,350,3672,-36.554936,145.977761,match
+Benalla,single,2 bed house,28,350,3673,-36.669929,146.062514,match
+Benalla,single,3 Bed House,140,420,3671,-36.385144,145.420691,match
+Benalla,single,3 Bed House,140,420,3672,-36.554936,145.977761,match
+Benalla,single,3 Bed House,140,420,3673,-36.669929,146.062514,match
+Benalla,single,4 bed house,75,500,3671,-36.385144,145.420691,match
+Benalla,single,4 bed house,75,500,3672,-36.554936,145.977761,match
+Benalla,single,4 bed house,75,500,3673,-36.669929,146.062514,match
+Bendigo,single,1 Bed Flat,29,300,3550,-36.764269,144.285267,match
+Bendigo,single,1 Bed Flat,29,300,3552,-37.825288,145.011924,match
+Bendigo,single,2 Bed Flat,62,388,3550,-36.764269,144.285267,match
+Bendigo,single,2 Bed Flat,62,388,3552,-37.825288,145.011924,match
+Bendigo,single,3 bed flat,22,480,3550,-36.764269,144.285267,match
+Bendigo,single,3 bed flat,22,480,3552,-37.825288,145.011924,match
+Bendigo,single,2 bed house,70,400,3550,-36.764269,144.285267,match
+Bendigo,single,2 bed house,70,400,3552,-37.825288,145.011924,match
+Bendigo,single,3 Bed House,136,440,3550,-36.764269,144.285267,match
+Bendigo,single,3 Bed House,136,440,3552,-37.825288,145.011924,match
+Bendigo,single,4 bed house,22,510,3550,-36.764269,144.285267,match
+Bendigo,single,4 bed house,22,510,3552,-37.825288,145.011924,match
+Bentleigh,single,1 Bed Flat,178,375,3204,-37.916956,145.036783,match
+Bentleigh,single,2 Bed Flat,611,530,3204,-37.916956,145.036783,match
+Bentleigh,single,3 bed flat,180,700,3204,-37.916956,145.036783,match
+Bentleigh,single,2 bed house,67,570,3204,-37.916956,145.036783,match
+Bentleigh,single,3 Bed House,346,690,3204,-37.916956,145.036783,match
+Bentleigh,single,4 bed house,298,1000,3204,-37.916956,145.036783,match
+Berwick,single,1 Bed Flat,11,350,3806,-38.025018,145.349488,match
+Berwick,single,2 Bed Flat,61,440,3806,-38.025018,145.349488,match
+Berwick,single,3 bed flat,79,480,3806,-38.025018,145.349488,match
+Berwick,single,2 bed house,73,450,3806,-38.025018,145.349488,match
+Berwick,single,3 Bed House,652,500,3806,-38.025018,145.349488,match
+Berwick,single,4 bed house,872,570,3806,-38.025018,145.349488,match
+Blackburn,single,1 Bed Flat,152,400,3130,-37.81805,145.149653,match
+Blackburn,single,2 Bed Flat,208,488,3130,-37.81805,145.149653,match
+Blackburn,single,3 bed flat,80,635,3130,-37.81805,145.149653,match
+Blackburn,single,2 bed house,23,530,3130,-37.81805,145.149653,match
+Blackburn,single,3 Bed House,222,550,3130,-37.81805,145.149653,match
+Blackburn,single,4 bed house,100,700,3130,-37.81805,145.149653,match
+Boronia,single,1 Bed Flat,17,370,3155,-37.861799,145.284418,match
+Boronia,single,2 Bed Flat,151,450,3155,-37.861799,145.284418,match
+Boronia,single,3 bed flat,106,520,3155,-37.861799,145.284418,match
+Boronia,single,2 bed house,32,450,3155,-37.861799,145.284418,match
+Boronia,single,3 Bed House,152,500,3155,-37.861799,145.284418,match
+Boronia,single,4 bed house,49,610,3155,-37.861799,145.284418,match
+Box Hill,single,1 Bed Flat,367,460,3128,-37.828866,145.122393,match
+Box Hill,single,2 Bed Flat,1106,580,3128,-37.828866,145.122393,match
+Box Hill,single,3 bed flat,211,680,3128,-37.828866,145.122393,match
+Box Hill,single,2 bed house,81,460,3128,-37.828866,145.122393,match
+Box Hill,single,3 Bed House,207,600,3128,-37.828866,145.122393,match
+Box Hill,single,4 bed house,133,750,3128,-37.828866,145.122393,match
+Brighton,single,1 Bed Flat,64,460,3186,-37.915066,144.996329,match
+Brighton,single,2 Bed Flat,301,620,3186,-37.915066,144.996329,match
+Brighton,single,3 bed flat,112,1028,3186,-37.915066,144.996329,match
+Brighton,single,2 bed house,18,750,3186,-37.915066,144.996329,match
+Brighton,single,3 Bed House,102,1050,3186,-37.915066,144.996329,match
+Brighton,single,4 bed house,90,1560,3186,-37.915066,144.996329,match
+Brighton East,single,1 Bed Flat,13,310,3187,-37.925371,145.013593,match
+Brighton East,single,2 Bed Flat,54,600,3187,-37.925371,145.013593,match
+Brighton East,single,3 bed flat,32,748,3187,-37.925371,145.013593,match
+Brighton East,single,2 bed house,20,615,3187,-37.925371,145.013593,match
+Brighton East,single,3 Bed House,77,845,3187,-37.925371,145.013593,match
+Brighton East,single,4 bed house,72,1200,3187,-37.925371,145.013593,match
+Brunswick,single,1 Bed Flat,492,430,3056,-37.766292,144.960108,match
+Brunswick,single,2 Bed Flat,574,550,3056,-37.766292,144.960108,match
+Brunswick,single,3 bed flat,65,780,3056,-37.766292,144.960108,match
+Brunswick,single,2 bed house,174,630,3056,-37.766292,144.960108,match
+Brunswick,single,3 Bed House,167,800,3056,-37.766292,144.960108,match
+Brunswick,single,4 bed house,45,1030,3056,-37.766292,144.960108,match
+Carlton North,single,1 Bed Flat,41,400,3054,-37.786971,144.96724,match
+Carlton North,single,2 Bed Flat,71,550,3054,-37.786971,144.96724,match
+Carlton North,single,3 bed flat,17,700,3054,-37.786971,144.96724,match
+Carlton North,single,2 bed house,109,685,3054,-37.786971,144.96724,match
+Carlton North,single,3 Bed House,74,900,3054,-37.786971,144.96724,match
+Carlton North,single,4 bed house,15,1200,3054,-37.786971,144.96724,match
+Carnegie,single,1 Bed Flat,366,380,3163,-37.896497,145.057237,match
+Carnegie,single,2 Bed Flat,494,550,3163,-37.896497,145.057237,match
+Carnegie,single,3 bed flat,98,700,3163,-37.896497,145.057237,match
+Carnegie,single,2 bed house,33,595,3163,-37.896497,145.057237,match
+Carnegie,single,3 Bed House,58,698,3163,-37.896497,145.057237,match
+Carnegie,single,4 bed house,25,990,3163,-37.896497,145.057237,match
+Castlemaine,single,1 Bed Flat,0,0,3450,-37.061635,144.214903,match
+Castlemaine,single,2 Bed Flat,31,380,3450,-37.061635,144.214903,match
+Castlemaine,single,3 bed flat,0,0,3450,-37.061635,144.214903,match
+Castlemaine,single,2 bed house,35,390,3450,-37.061635,144.214903,match
+Castlemaine,single,3 Bed House,84,468,3450,-37.061635,144.214903,match
+Castlemaine,single,4 bed house,20,548,3450,-37.061635,144.214903,match
+Caulfield,single,1 Bed Flat,614,460,3162,-37.892139,145.023394,match
+Caulfield,single,2 Bed Flat,932,580,3162,-37.892139,145.023394,match
+Caulfield,single,3 bed flat,224,750,3162,-37.892139,145.023394,match
+Caulfield,single,2 bed house,57,570,3162,-37.892139,145.023394,match
+Caulfield,single,3 Bed House,126,800,3162,-37.892139,145.023394,match
+Caulfield,single,4 bed house,108,1100,3162,-37.892139,145.023394,match
+Cheltenham,single,1 Bed Flat,126,400,3192,-37.965655,145.0623,match
+Cheltenham,single,2 Bed Flat,563,500,3192,-37.965655,145.0623,match
+Cheltenham,single,3 bed flat,120,650,3192,-37.965655,145.0623,match
+Cheltenham,single,2 bed house,71,550,3192,-37.965655,145.0623,match
+Cheltenham,single,3 Bed House,348,670,3192,-37.965655,145.0623,match
+Cheltenham,single,4 bed house,152,845,3192,-37.965655,145.0623,match
+Clayton,single,1 Bed Flat,330,420,3168,-37.91342,145.12665,match
+Clayton,single,2 Bed Flat,646,540,3168,-37.91342,145.12665,match
+Clayton,single,3 bed flat,251,600,3168,-37.91342,145.12665,match
+Clayton,single,2 bed house,39,500,3168,-37.91342,145.12665,match
+Clayton,single,3 Bed House,220,550,3168,-37.91342,145.12665,match
+Clayton,single,4 bed house,88,686,3168,-37.91342,145.12665,match
+Corio,single,1 Bed Flat,34,300,3214,-38.084781,144.352385,match
+Corio,single,2 Bed Flat,78,350,3214,-38.084781,144.352385,match
+Corio,single,3 bed flat,47,430,3214,-38.084781,144.352385,match
+Corio,single,2 bed house,115,350,3214,-38.084781,144.352385,match
+Corio,single,3 Bed House,439,385,3214,-38.084781,144.352385,match
+Corio,single,4 bed house,61,500,3214,-38.084781,144.352385,match
+Craigieburn,single,1 Bed Flat,0,0,3064,-37.546522,144.942199,match
+Craigieburn,single,2 Bed Flat,94,400,3064,-37.546522,144.942199,match
+Craigieburn,single,3 bed flat,87,440,3064,-37.546522,144.942199,match
+Craigieburn,single,2 bed house,55,420,3064,-37.546522,144.942199,match
+Craigieburn,single,3 Bed House,894,455,3064,-37.546522,144.942199,match
+Craigieburn,single,4 bed house,1043,520,3064,-37.546522,144.942199,match
+Cranbourne,single,1 Bed Flat,18,340,3977,-38.135253,145.268888,match
+Cranbourne,single,2 Bed Flat,123,400,3977,-38.135253,145.268888,match
+Cranbourne,single,3 bed flat,108,473,3977,-38.135253,145.268888,match
+Cranbourne,single,2 bed house,80,440,3977,-38.135253,145.268888,match
+Cranbourne,single,3 Bed House,1350,490,3977,-38.135253,145.268888,match
+Cranbourne,single,4 bed house,2143,550,3977,-38.135253,145.268888,match
+Dandenong,single,1 Bed Flat,182,320,3175,-38.016114,145.208504,match
+Dandenong,single,1 Bed Flat,182,320,8785,-38.016114,145.208504,match
+Dandenong,single,2 Bed Flat,579,380,3175,-38.016114,145.208504,match
+Dandenong,single,2 Bed Flat,579,380,8785,-38.016114,145.208504,match
+Dandenong,single,3 bed flat,161,500,3175,-38.016114,145.208504,match
+Dandenong,single,3 bed flat,161,500,8785,-38.016114,145.208504,match
+Dandenong,single,2 bed house,39,450,3175,-38.016114,145.208504,match
+Dandenong,single,2 bed house,39,450,8785,-38.016114,145.208504,match
+Dandenong,single,3 Bed House,261,520,3175,-38.016114,145.208504,match
+Dandenong,single,3 Bed House,261,520,8785,-38.016114,145.208504,match
+Dandenong,single,4 bed house,170,678,3175,-38.016114,145.208504,match
+Dandenong,single,4 bed house,170,678,8785,-38.016114,145.208504,match
+Docklands,single,1 Bed Flat,1086,550,3008,-37.814719,144.948039,match
+Docklands,single,1 Bed Flat,1086,550,8012,-37.814719,144.948039,match
+Docklands,single,2 Bed Flat,1358,700,3008,-37.814719,144.948039,match
+Docklands,single,2 Bed Flat,1358,700,8012,-37.814719,144.948039,match
+Docklands,single,3 bed flat,178,1050,3008,-37.814719,144.948039,match
+Docklands,single,3 bed flat,178,1050,8012,-37.814719,144.948039,match
+Docklands,single,2 bed house,0,0,3008,-37.814719,144.948039,match
+Docklands,single,2 bed house,0,0,8012,-37.814719,144.948039,match
+Docklands,single,3 Bed House,0,0,3008,-37.814719,144.948039,match
+Docklands,single,3 Bed House,0,0,8012,-37.814719,144.948039,match
+Docklands,single,4 bed house,0,0,3008,-37.814719,144.948039,match
+Docklands,single,4 bed house,0,0,8012,-37.814719,144.948039,match
+East Melbourne,single,1 Bed Flat,172,483,3002,-37.81443733,144.9825846,match
+East Melbourne,single,1 Bed Flat,172,483,8002,-37.81443733,144.9825846,match
+East Melbourne,single,2 Bed Flat,213,630,3002,-37.81443733,144.9825846,match
+East Melbourne,single,2 Bed Flat,213,630,8002,-37.81443733,144.9825846,match
+East Melbourne,single,3 bed flat,24,963,3002,-37.81443733,144.9825846,match
+East Melbourne,single,3 bed flat,24,963,8002,-37.81443733,144.9825846,match
+East Melbourne,single,2 bed house,0,0,3002,-37.81443733,144.9825846,match
+East Melbourne,single,2 bed house,0,0,8002,-37.81443733,144.9825846,match
+East Melbourne,single,3 Bed House,18,1150,3002,-37.81443733,144.9825846,match
+East Melbourne,single,3 Bed House,18,1150,8002,-37.81443733,144.9825846,match
+East Melbourne,single,4 bed house,0,0,3002,-37.81443733,144.9825846,match
+East Melbourne,single,4 bed house,0,0,8002,-37.81443733,144.9825846,match
+Echuca,single,1 Bed Flat,15,260,3564,-36.168997,144.728806,match
+Echuca,single,2 Bed Flat,89,380,3564,-36.168997,144.728806,match
+Echuca,single,3 bed flat,17,460,3564,-36.168997,144.728806,match
+Echuca,single,2 bed house,13,380,3564,-36.168997,144.728806,match
+Echuca,single,3 Bed House,131,455,3564,-36.168997,144.728806,match
+Echuca,single,4 bed house,56,585,3564,-36.168997,144.728806,match
+Elsternwick,single,1 Bed Flat,170,400,3185,-37.891841,145.002571,match
+Elsternwick,single,2 Bed Flat,275,550,3185,-37.891841,145.002571,match
+Elsternwick,single,3 bed flat,44,850,3185,-37.891841,145.002571,match
+Elsternwick,single,2 bed house,13,725,3185,-37.891841,145.002571,match
+Elsternwick,single,3 Bed House,41,890,3185,-37.891841,145.002571,match
+Elsternwick,single,4 bed house,25,1180,3185,-37.891841,145.002571,match
+Elwood,single,1 Bed Flat,338,413,3184,-37.881414,144.984034,match
+Elwood,single,2 Bed Flat,659,565,3184,-37.881414,144.984034,match
+Elwood,single,3 bed flat,84,850,3184,-37.881414,144.984034,match
+Elwood,single,2 bed house,12,738,3184,-37.881414,144.984034,match
+Elwood,single,3 Bed House,44,1110,3184,-37.881414,144.984034,match
+Elwood,single,4 bed house,21,1657,3184,-37.881414,144.984034,match
+Essendon,single,1 Bed Flat,465,410,3040,-37.751845,144.902556,match
+Essendon,single,2 Bed Flat,709,480,3040,-37.751845,144.902556,match
+Essendon,single,3 bed flat,168,620,3040,-37.751845,144.902556,match
+Essendon,single,2 bed house,72,490,3040,-37.751845,144.902556,match
+Essendon,single,3 Bed House,295,580,3040,-37.751845,144.902556,match
+Essendon,single,4 bed house,115,850,3040,-37.751845,144.902556,match
+Ferntree Gully,single,1 Bed Flat,11,360,3156,-37.917932,145.292895,match
+Ferntree Gully,single,2 Bed Flat,77,450,3156,-37.917932,145.292895,match
+Ferntree Gully,single,3 bed flat,73,560,3156,-37.917932,145.292895,match
+Ferntree Gully,single,2 bed house,16,450,3156,-37.917932,145.292895,match
+Ferntree Gully,single,3 Bed House,195,520,3156,-37.917932,145.292895,match
+Ferntree Gully,single,4 bed house,64,600,3156,-37.917932,145.292895,match
+Fitzroy,single,1 Bed Flat,233,475,3065,-37.802608,144.977795,match
+Fitzroy,single,2 Bed Flat,204,700,3065,-37.802608,144.977795,match
+Fitzroy,single,3 bed flat,28,1000,3065,-37.802608,144.977795,match
+Fitzroy,single,2 bed house,65,750,3065,-37.802608,144.977795,match
+Fitzroy,single,3 Bed House,45,990,3065,-37.802608,144.977795,match
+Fitzroy,single,4 bed house,13,1200,3065,-37.802608,144.977795,match
+Footscray,single,1 Bed Flat,594,410,3011,-37.807101,144.907953,match
+Footscray,single,2 Bed Flat,831,550,3011,-37.807101,144.907953,match
+Footscray,single,3 bed flat,80,665,3011,-37.807101,144.907953,match
+Footscray,single,2 bed house,107,540,3011,-37.807101,144.907953,match
+Footscray,single,3 Bed House,140,615,3011,-37.807101,144.907953,match
+Footscray,single,4 bed house,21,750,3011,-37.807101,144.907953,match
+Frankston,single,1 Bed Flat,177,320,3199,-38.162578,145.135961,match
+Frankston,single,2 Bed Flat,485,430,3199,-38.162578,145.135961,match
+Frankston,single,3 bed flat,208,523,3199,-38.162578,145.135961,match
+Frankston,single,2 bed house,89,450,3199,-38.162578,145.135961,match
+Frankston,single,3 Bed House,640,518,3199,-38.162578,145.135961,match
+Frankston,single,4 bed house,281,630,3199,-38.162578,145.135961,match
+Hamilton,single,1 Bed Flat,19,230,3300,-37.743155,142.013356,match
+Hamilton,single,2 Bed Flat,35,290,3300,-37.743155,142.013356,match
+Hamilton,single,3 bed flat,0,0,3300,-37.743155,142.013356,match
+Hamilton,single,2 bed house,29,300,3300,-37.743155,142.013356,match
+Hamilton,single,3 Bed House,97,360,3300,-37.743155,142.013356,match
+Hamilton,single,4 bed house,26,450,3300,-37.743155,142.013356,match
+Hawthorn,single,1 Bed Flat,504,413,3122,-37.822725,145.030602,match
+Hawthorn,single,2 Bed Flat,640,560,3122,-37.822725,145.030602,match
+Hawthorn,single,3 bed flat,96,899,3122,-37.822725,145.030602,match
+Hawthorn,single,2 bed house,45,675,3122,-37.822725,145.030602,match
+Hawthorn,single,3 Bed House,63,900,3122,-37.822725,145.030602,match
+Hawthorn,single,4 bed house,32,1200,3122,-37.822725,145.030602,match
+Horsham,single,1 Bed Flat,32,300,3400,-36.725245,142.203729,match
+Horsham,single,1 Bed Flat,32,300,3401,-36.881534,141.940832,match
+Horsham,single,1 Bed Flat,32,300,3402,-37.164183,142.666302,match
+Horsham,single,2 Bed Flat,93,300,3400,-36.725245,142.203729,match
+Horsham,single,2 Bed Flat,93,300,3401,-36.881534,141.940832,match
+Horsham,single,2 Bed Flat,93,300,3402,-37.164183,142.666302,match
+Horsham,single,3 bed flat,47,390,3400,-36.725245,142.203729,match
+Horsham,single,3 bed flat,47,390,3401,-36.881534,141.940832,match
+Horsham,single,3 bed flat,47,390,3402,-37.164183,142.666302,match
+Horsham,single,2 bed house,56,330,3400,-36.725245,142.203729,match
+Horsham,single,2 bed house,56,330,3401,-36.881534,141.940832,match
+Horsham,single,2 bed house,56,330,3402,-37.164183,142.666302,match
+Horsham,single,3 Bed House,196,400,3400,-36.725245,142.203729,match
+Horsham,single,3 Bed House,196,400,3401,-36.881534,141.940832,match
+Horsham,single,3 Bed House,196,400,3402,-37.164183,142.666302,match
+Horsham,single,4 bed house,51,480,3400,-36.725245,142.203729,match
+Horsham,single,4 bed house,51,480,3401,-36.881534,141.940832,match
+Horsham,single,4 bed house,51,480,3402,-37.164183,142.666302,match
+Keilor,single,1 Bed Flat,0,0,3036,-37.705324,144.82246,match
+Keilor,single,2 Bed Flat,0,0,3036,-37.705324,144.82246,match
+Keilor,single,3 bed flat,0,0,3036,-37.705324,144.82246,match
+Keilor,single,2 bed house,0,0,3036,-37.705324,144.82246,match
+Keilor,single,3 Bed House,20,530,3036,-37.705324,144.82246,match
+Keilor,single,4 bed house,12,605,3036,-37.705324,144.82246,match
+Kew,single,1 Bed Flat,53,440,3101,-37.807397,145.036575,match
+Kew,single,2 Bed Flat,374,530,3101,-37.807397,145.036575,match
+Kew,single,3 bed flat,138,750,3101,-37.807397,145.036575,match
+Kew,single,2 bed house,25,620,3101,-37.807397,145.036575,match
+Kew,single,3 Bed House,102,840,3101,-37.807397,145.036575,match
+Kew,single,4 bed house,92,1250,3101,-37.807397,145.036575,match
+Lara,single,1 Bed Flat,0,0,3212,-38.039958,144.422666,match
+Lara,single,2 Bed Flat,39,380,3212,-38.039958,144.422666,match
+Lara,single,3 bed flat,36,440,3212,-38.039958,144.422666,match
+Lara,single,2 bed house,12,395,3212,-38.039958,144.422666,match
+Lara,single,3 Bed House,151,480,3212,-38.039958,144.422666,match
+Lara,single,4 bed house,244,550,3212,-38.039958,144.422666,match
+Malvern,single,1 Bed Flat,97,420,3144,-37.857443,145.034127,match
+Malvern,single,2 Bed Flat,144,550,3144,-37.857443,145.034127,match
+Malvern,single,3 bed flat,40,750,3144,-37.857443,145.034127,match
+Malvern,single,2 bed house,14,713,3144,-37.857443,145.034127,match
+Malvern,single,3 Bed House,44,860,3144,-37.857443,145.034127,match
+Malvern,single,4 bed house,34,1400,3144,-37.857443,145.034127,match
+Malvern East,single,1 Bed Flat,193,450,3145,-37.873557,145.049328,match
+Malvern East,single,2 Bed Flat,379,560,3145,-37.873557,145.049328,match
+Malvern East,single,3 bed flat,70,750,3145,-37.873557,145.049328,match
+Malvern East,single,2 bed house,16,623,3145,-37.873557,145.049328,match
+Malvern East,single,3 Bed House,96,700,3145,-37.873557,145.049328,match
+Malvern East,single,4 bed house,57,1100,3145,-37.873557,145.049328,match
+Melton,single,1 Bed Flat,34,369,3337,-37.656057,144.571458,match
+Melton,single,2 Bed Flat,89,330,3337,-37.656057,144.571458,match
+Melton,single,3 bed flat,104,360,3337,-37.656057,144.571458,match
+Melton,single,2 bed house,40,348,3337,-37.656057,144.571458,match
+Melton,single,3 Bed House,1090,390,3337,-37.656057,144.571458,match
+Melton,single,4 bed house,1563,450,3337,-37.656057,144.571458,match
+Mildura,single,1 Bed Flat,76,250,3500,-34.1931,142.154161,match
+Mildura,single,1 Bed Flat,76,250,3502,-37.972887,145.25835,match
+Mildura,single,2 Bed Flat,213,300,3500,-34.1931,142.154161,match
+Mildura,single,2 Bed Flat,213,300,3502,-37.972887,145.25835,match
+Mildura,single,3 bed flat,57,400,3500,-34.1931,142.154161,match
+Mildura,single,3 bed flat,57,400,3502,-37.972887,145.25835,match
+Mildura,single,2 bed house,80,335,3500,-34.1931,142.154161,match
+Mildura,single,2 bed house,80,335,3502,-37.972887,145.25835,match
+Mildura,single,3 Bed House,428,408,3500,-34.1931,142.154161,match
+Mildura,single,3 Bed House,428,408,3502,-37.972887,145.25835,match
+Mildura,single,4 bed house,178,500,3500,-34.1931,142.154161,match
+Mildura,single,4 bed house,178,500,3502,-37.972887,145.25835,match
+Morwell,single,1 Bed Flat,47,250,3840,-38.245215,146.424457,match
+Morwell,single,2 Bed Flat,85,280,3840,-38.245215,146.424457,match
+Morwell,single,3 bed flat,10,330,3840,-38.245215,146.424457,match
+Morwell,single,2 bed house,67,300,3840,-38.245215,146.424457,match
+Morwell,single,3 Bed House,260,360,3840,-38.245215,146.424457,match
+Morwell,single,4 bed house,79,470,3840,-38.245215,146.424457,match
+Mount Waverley,single,1 Bed Flat,12,425,3149,-37.880748,145.128118,match
+Mount Waverley,single,2 Bed Flat,122,500,3149,-37.880748,145.128118,match
+Mount Waverley,single,3 bed flat,147,650,3149,-37.880748,145.128118,match
+Mount Waverley,single,2 bed house,23,550,3149,-37.880748,145.128118,match
+Mount Waverley,single,3 Bed House,205,600,3149,-37.880748,145.128118,match
+Mount Waverley,single,4 bed house,161,750,3149,-37.880748,145.128118,match
+Newtown,single,1 Bed Flat,43,320,3220,-38.157038,144.34652,match
+Newtown,single,1 Bed Flat,43,320,3351,-37.758248,143.637463,match
+Newtown,single,2 Bed Flat,83,420,3220,-38.157038,144.34652,match
+Newtown,single,2 Bed Flat,83,420,3351,-37.758248,143.637463,match
+Newtown,single,3 bed flat,30,598,3220,-38.157038,144.34652,match
+Newtown,single,3 bed flat,30,598,3351,-37.758248,143.637463,match
+Newtown,single,2 bed house,32,470,3220,-38.157038,144.34652,match
+Newtown,single,2 bed house,32,470,3351,-37.758248,143.637463,match
+Newtown,single,3 Bed House,93,520,3220,-38.157038,144.34652,match
+Newtown,single,3 Bed House,93,520,3351,-37.758248,143.637463,match
+Newtown,single,4 bed house,45,700,3220,-38.157038,144.34652,match
+Newtown,single,4 bed house,45,700,3351,-37.758248,143.637463,match
+Noble Park,single,1 Bed Flat,131,330,3174,-37.966218,145.17877,match
+Noble Park,single,2 Bed Flat,351,435,3174,-37.966218,145.17877,match
+Noble Park,single,3 bed flat,129,500,3174,-37.966218,145.17877,match
+Noble Park,single,2 bed house,21,450,3174,-37.966218,145.17877,match
+Noble Park,single,3 Bed House,227,495,3174,-37.966218,145.17877,match
+Noble Park,single,4 bed house,50,568,3174,-37.966218,145.17877,match
+North Bendigo,single,1 Bed Flat,12,240,3550,-36.764269,144.285267,match
+North Bendigo,single,2 Bed Flat,116,360,3550,-36.764269,144.285267,match
+North Bendigo,single,3 bed flat,54,420,3550,-36.764269,144.285267,match
+North Bendigo,single,2 bed house,58,370,3550,-36.764269,144.285267,match
+North Bendigo,single,3 Bed House,379,430,3550,-36.764269,144.285267,match
+North Bendigo,single,4 bed house,193,500,3550,-36.764269,144.285267,match
+North Geelong,single,1 Bed Flat,29,310,3215,-38.111002,144.33452,match
+North Geelong,single,2 Bed Flat,105,400,3215,-38.111002,144.33452,match
+North Geelong,single,3 bed flat,73,480,3215,-38.111002,144.33452,match
+North Geelong,single,2 bed house,55,415,3215,-38.111002,144.33452,match
+North Geelong,single,3 Bed House,294,450,3215,-38.111002,144.33452,match
+North Geelong,single,4 bed house,84,550,3215,-38.111002,144.33452,match
+Northcote,single,1 Bed Flat,289,390,3070,-37.774064,144.999745,match
+Northcote,single,2 Bed Flat,291,555,3070,-37.774064,144.999745,match
+Northcote,single,3 bed flat,45,800,3070,-37.774064,144.999745,match
+Northcote,single,2 bed house,130,693,3070,-37.774064,144.999745,match
+Northcote,single,3 Bed House,154,845,3070,-37.774064,144.999745,match
+Northcote,single,4 bed house,48,1120,3070,-37.774064,144.999745,match
+Pakenham,single,1 Bed Flat,29,320,3810,-38.04658,145.472514,match
+Pakenham,single,2 Bed Flat,119,400,3810,-38.04658,145.472514,match
+Pakenham,single,3 bed flat,81,450,3810,-38.04658,145.472514,match
+Pakenham,single,2 bed house,71,420,3810,-38.04658,145.472514,match
+Pakenham,single,3 Bed House,634,470,3810,-38.04658,145.472514,match
+Pakenham,single,4 bed house,580,550,3810,-38.04658,145.472514,match
+Port Melbourne,single,1 Bed Flat,268,500,3207,-37.832179,144.918044,match
+Port Melbourne,single,2 Bed Flat,367,695,3207,-37.832179,144.918044,match
+Port Melbourne,single,3 bed flat,110,1100,3207,-37.832179,144.918044,match
+Port Melbourne,single,2 bed house,87,670,3207,-37.832179,144.918044,match
+Port Melbourne,single,3 Bed House,101,950,3207,-37.832179,144.918044,match
+Port Melbourne,single,4 bed house,25,1200,3207,-37.832179,144.918044,match
+Portland,single,1 Bed Flat,0,0,3305,-38.235475,141.437227,match
+Portland,single,2 Bed Flat,45,340,3305,-38.235475,141.437227,match
+Portland,single,3 bed flat,13,420,3305,-38.235475,141.437227,match
+Portland,single,2 bed house,24,365,3305,-38.235475,141.437227,match
+Portland,single,3 Bed House,159,420,3305,-38.235475,141.437227,match
+Portland,single,4 bed house,43,500,3305,-38.235475,141.437227,match
+Preston,single,1 Bed Flat,251,400,3072,-37.74247,145.005702,match
+Preston,single,2 Bed Flat,543,495,3072,-37.74247,145.005702,match
+Preston,single,3 bed flat,97,625,3072,-37.74247,145.005702,match
+Preston,single,2 bed house,100,550,3072,-37.74247,145.005702,match
+Preston,single,3 Bed House,215,650,3072,-37.74247,145.005702,match
+Preston,single,4 bed house,55,750,3072,-37.74247,145.005702,match
+Reservoir,single,1 Bed Flat,130,363,3073,-37.712474,145.005955,match
+Reservoir,single,2 Bed Flat,588,440,3073,-37.712474,145.005955,match
+Reservoir,single,3 bed flat,243,540,3073,-37.712474,145.005955,match
+Reservoir,single,2 bed house,119,440,3073,-37.712474,145.005955,match
+Reservoir,single,3 Bed House,296,500,3073,-37.712474,145.005955,match
+Reservoir,single,4 bed house,50,635,3073,-37.712474,145.005955,match
+Ringwood,single,1 Bed Flat,53,399,3134,-37.796091,145.232557,match
+Ringwood,single,2 Bed Flat,439,460,3134,-37.796091,145.232557,match
+Ringwood,single,3 bed flat,136,580,3134,-37.796091,145.232557,match
+Ringwood,single,2 bed house,88,460,3134,-37.796091,145.232557,match
+Ringwood,single,3 Bed House,324,550,3134,-37.796091,145.232557,match
+Ringwood,single,4 bed house,170,650,3134,-37.796091,145.232557,match
+Rowville,single,1 Bed Flat,0,0,3178,-37.924431,145.241589,match
+Rowville,single,2 Bed Flat,21,490,3178,-37.924431,145.241589,match
+Rowville,single,3 bed flat,38,538,3178,-37.924431,145.241589,match
+Rowville,single,2 bed house,0,0,3178,-37.924431,145.241589,match
+Rowville,single,3 Bed House,134,540,3178,-37.924431,145.241589,match
+Rowville,single,4 bed house,134,650,3178,-37.924431,145.241589,match
+Seymour,single,1 Bed Flat,0,0,3660,-37.035925,145.257867,match
+Seymour,single,1 Bed Flat,0,0,3661,-38.195993,146.535346,match
+Seymour,single,2 Bed Flat,40,300,3660,-37.035925,145.257867,match
+Seymour,single,2 Bed Flat,40,300,3661,-38.195993,146.535346,match
+Seymour,single,3 bed flat,0,0,3660,-37.035925,145.257867,match
+Seymour,single,3 bed flat,0,0,3661,-38.195993,146.535346,match
+Seymour,single,2 bed house,12,375,3660,-37.035925,145.257867,match
+Seymour,single,2 bed house,12,375,3661,-38.195993,146.535346,match
+Seymour,single,3 Bed House,88,400,3660,-37.035925,145.257867,match
+Seymour,single,3 Bed House,88,400,3661,-38.195993,146.535346,match
+Seymour,single,4 bed house,40,500,3660,-37.035925,145.257867,match
+Seymour,single,4 bed house,40,500,3661,-38.195993,146.535346,match
+Shepparton,single,1 Bed Flat,109,250,3630,-36.380853,145.403176,match
+Shepparton,single,1 Bed Flat,109,250,3632,-36.544462,145.603242,match
+Shepparton,single,2 Bed Flat,304,320,3630,-36.380853,145.403176,match
+Shepparton,single,2 Bed Flat,304,320,3632,-36.544462,145.603242,match
+Shepparton,single,3 bed flat,91,440,3630,-36.380853,145.403176,match
+Shepparton,single,3 bed flat,91,440,3632,-36.544462,145.603242,match
+Shepparton,single,2 bed house,69,350,3630,-36.380853,145.403176,match
+Shepparton,single,2 bed house,69,350,3632,-36.544462,145.603242,match
+Shepparton,single,3 Bed House,504,420,3630,-36.380853,145.403176,match
+Shepparton,single,3 Bed House,504,420,3632,-36.544462,145.603242,match
+Shepparton,single,4 bed house,189,550,3630,-36.380853,145.403176,match
+Shepparton,single,4 bed house,189,550,3632,-36.544462,145.603242,match
+South Melbourne,single,1 Bed Flat,440,500,3205,-37.831693,144.958176,match
+South Melbourne,single,2 Bed Flat,457,650,3205,-37.831693,144.958176,match
+South Melbourne,single,3 bed flat,78,900,3205,-37.831693,144.958176,match
+South Melbourne,single,2 bed house,66,718,3205,-37.831693,144.958176,match
+South Melbourne,single,3 Bed House,49,960,3205,-37.831693,144.958176,match
+South Melbourne,single,4 bed house,0,0,3205,-37.831693,144.958176,match
+South Yarra,single,1 Bed Flat,1265,460,3141,-37.840679,144.991264,match
+South Yarra,single,2 Bed Flat,1302,650,3141,-37.840679,144.991264,match
+South Yarra,single,3 bed flat,147,980,3141,-37.840679,144.991264,match
+South Yarra,single,2 bed house,98,736,3141,-37.840679,144.991264,match
+South Yarra,single,3 Bed House,97,1050,3141,-37.840679,144.991264,match
+South Yarra,single,4 bed house,28,1623,3141,-37.840679,144.991264,match
+Southbank,single,1 Bed Flat,1507,530,3006,-37.823258,144.965926,match
+Southbank,single,2 Bed Flat,2274,690,3006,-37.823258,144.965926,match
+Southbank,single,3 bed flat,315,975,3006,-37.823258,144.965926,match
+Southbank,single,2 bed house,0,0,3006,-37.823258,144.965926,match
+Southbank,single,3 Bed House,0,0,3006,-37.823258,144.965926,match
+Southbank,single,4 bed house,0,0,3006,-37.823258,144.965926,match
+Springvale,single,1 Bed Flat,142,344,3171,-37.944608,145.156783,match
+Springvale,single,2 Bed Flat,482,470,3171,-37.944608,145.156783,match
+Springvale,single,3 bed flat,188,580,3171,-37.944608,145.156783,match
+Springvale,single,2 bed house,39,480,3171,-37.944608,145.156783,match
+Springvale,single,3 Bed House,350,530,3171,-37.944608,145.156783,match
+Springvale,single,4 bed house,97,610,3171,-37.944608,145.156783,match
+St Kilda,single,1 Bed Flat,1050,420,3182,-37.865322,144.979478,match
+St Kilda,single,2 Bed Flat,966,580,3182,-37.865322,144.979478,match
+St Kilda,single,3 bed flat,95,880,3182,-37.865322,144.979478,match
+St Kilda,single,2 bed house,37,700,3182,-37.865322,144.979478,match
+St Kilda,single,3 Bed House,35,900,3182,-37.865322,144.979478,match
+St Kilda,single,4 bed house,14,1200,3182,-37.865322,144.979478,match
+Sunbury,single,1 Bed Flat,12,280,3429,-37.56762,144.728973,match
+Sunbury,single,2 Bed Flat,96,400,3429,-37.56762,144.728973,match
+Sunbury,single,3 bed flat,49,440,3429,-37.56762,144.728973,match
+Sunbury,single,2 bed house,18,400,3429,-37.56762,144.728973,match
+Sunbury,single,3 Bed House,264,440,3429,-37.56762,144.728973,match
+Sunbury,single,4 bed house,324,535,3429,-37.56762,144.728973,match
+Sunshine,single,1 Bed Flat,106,290,3020,-37.777204,144.829945,match
+Sunshine,single,2 Bed Flat,257,380,3020,-37.777204,144.829945,match
+Sunshine,single,3 bed flat,103,470,3020,-37.777204,144.829945,match
+Sunshine,single,2 bed house,79,400,3020,-37.777204,144.829945,match
+Sunshine,single,3 Bed House,456,440,3020,-37.777204,144.829945,match
+Sunshine,single,4 bed house,97,530,3020,-37.777204,144.829945,match
+Swan Hill,single,1 Bed Flat,48,200,3585,-35.348388,143.336906,match
+Swan Hill,single,2 Bed Flat,92,320,3585,-35.348388,143.336906,match
+Swan Hill,single,3 bed flat,10,445,3585,-35.348388,143.336906,match
+Swan Hill,single,2 bed house,12,330,3585,-35.348388,143.336906,match
+Swan Hill,single,3 Bed House,110,400,3585,-35.348388,143.336906,match
+Swan Hill,single,4 bed house,37,500,3585,-35.348388,143.336906,match
+Sydenham,single,1 Bed Flat,0,0,3037,-37.715579,144.780474,match
+Sydenham,single,2 Bed Flat,90,420,3037,-37.715579,144.780474,match
+Sydenham,single,3 bed flat,198,430,3037,-37.715579,144.780474,match
+Sydenham,single,2 bed house,61,400,3037,-37.715579,144.780474,match
+Sydenham,single,3 Bed House,1279,450,3037,-37.715579,144.780474,match
+Sydenham,single,4 bed house,1710,500,3037,-37.715579,144.780474,match
+Thornbury,single,1 Bed Flat,235,360,3071,-37.759426,145.007006,match
+Thornbury,single,2 Bed Flat,293,483,3071,-37.759426,145.007006,match
+Thornbury,single,3 bed flat,44,710,3071,-37.759426,145.007006,match
+Thornbury,single,2 bed house,68,640,3071,-37.759426,145.007006,match
+Thornbury,single,3 Bed House,128,750,3071,-37.759426,145.007006,match
+Thornbury,single,4 bed house,28,900,3071,-37.759426,145.007006,match
+Toorak,single,1 Bed Flat,128,405,3142,-37.84411,145.017732,match
+Toorak,single,2 Bed Flat,245,585,3142,-37.84411,145.017732,match
+Toorak,single,3 bed flat,91,920,3142,-37.84411,145.017732,match
+Toorak,single,2 bed house,18,640,3142,-37.84411,145.017732,match
+Toorak,single,3 Bed House,45,1250,3142,-37.84411,145.017732,match
+Toorak,single,4 bed house,28,1825,3142,-37.84411,145.017732,match
+Torquay,single,1 Bed Flat,19,310,3228,-38.307545,144.299978,match
+Torquay,single,2 Bed Flat,32,493,3228,-38.307545,144.299978,match
+Torquay,single,3 bed flat,36,600,3228,-38.307545,144.299978,match
+Torquay,single,2 bed house,30,500,3228,-38.307545,144.299978,match
+Torquay,single,3 Bed House,176,620,3228,-38.307545,144.299978,match
+Torquay,single,4 bed house,199,680,3228,-38.307545,144.299978,match
+Traralgon,single,1 Bed Flat,71,275,3844,-38.316869,146.607101,match
+Traralgon,single,2 Bed Flat,127,340,3844,-38.316869,146.607101,match
+Traralgon,single,3 bed flat,32,415,3844,-38.316869,146.607101,match
+Traralgon,single,2 bed house,48,370,3844,-38.316869,146.607101,match
+Traralgon,single,3 Bed House,394,425,3844,-38.316869,146.607101,match
+Traralgon,single,4 bed house,157,520,3844,-38.316869,146.607101,match
+Wangaratta,single,1 Bed Flat,70,240,3676,-36.341245,146.338612,match
+Wangaratta,single,1 Bed Flat,70,240,3677,-36.358017,146.330564,match
+Wangaratta,single,2 Bed Flat,92,300,3676,-36.341245,146.338612,match
+Wangaratta,single,2 Bed Flat,92,300,3677,-36.358017,146.330564,match
+Wangaratta,single,3 bed flat,25,380,3676,-36.341245,146.338612,match
+Wangaratta,single,3 bed flat,25,380,3677,-36.358017,146.330564,match
+Wangaratta,single,2 bed house,35,370,3676,-36.341245,146.338612,match
+Wangaratta,single,2 bed house,35,370,3677,-36.358017,146.330564,match
+Wangaratta,single,3 Bed House,250,420,3676,-36.341245,146.338612,match
+Wangaratta,single,3 Bed House,250,420,3677,-36.358017,146.330564,match
+Wangaratta,single,4 bed house,93,500,3676,-36.341245,146.338612,match
+Wangaratta,single,4 bed house,93,500,3677,-36.358017,146.330564,match
+Warragul,single,1 Bed Flat,10,260,3820,-38.207476,145.922212,match
+Warragul,single,2 Bed Flat,65,360,3820,-38.207476,145.922212,match
+Warragul,single,3 bed flat,20,397,3820,-38.207476,145.922212,match
+Warragul,single,2 bed house,30,380,3820,-38.207476,145.922212,match
+Warragul,single,3 Bed House,165,440,3820,-38.207476,145.922212,match
+Warragul,single,4 bed house,241,520,3820,-38.207476,145.922212,match
+Warrnambool,single,1 Bed Flat,46,300,3280,-38.37884,142.482889,match
+Warrnambool,single,2 Bed Flat,228,380,3280,-38.37884,142.482889,match
+Warrnambool,single,3 bed flat,46,505,3280,-38.37884,142.482889,match
+Warrnambool,single,2 bed house,82,415,3280,-38.37884,142.482889,match
+Warrnambool,single,3 Bed House,298,500,3280,-38.37884,142.482889,match
+Warrnambool,single,4 bed house,108,600,3280,-38.37884,142.482889,match
+West Footscray,single,1 Bed Flat,150,330,3012,-37.807135,144.861162,match
+West Footscray,single,2 Bed Flat,296,450,3012,-37.807135,144.861162,match
+West Footscray,single,3 bed flat,99,550,3012,-37.807135,144.861162,match
+West Footscray,single,2 bed house,95,470,3012,-37.807135,144.861162,match
+West Footscray,single,3 Bed House,253,540,3012,-37.807135,144.861162,match
+West Footscray,single,4 bed house,50,640,3012,-37.807135,144.861162,match
+Whittlesea,single,1 Bed Flat,0,0,3757,-37.469784,145.182221,match
+Whittlesea,single,2 Bed Flat,63,400,3757,-37.469784,145.182221,match
+Whittlesea,single,3 bed flat,29,480,3757,-37.469784,145.182221,match
+Whittlesea,single,2 bed house,42,420,3757,-37.469784,145.182221,match
+Whittlesea,single,3 Bed House,463,475,3757,-37.469784,145.182221,match
+Whittlesea,single,4 bed house,974,530,3757,-37.469784,145.182221,match
+Williamstown,single,1 Bed Flat,56,383,3016,-37.863743,144.888461,match
+Williamstown,single,2 Bed Flat,122,520,3016,-37.863743,144.888461,match
+Williamstown,single,3 bed flat,22,695,3016,-37.863743,144.888461,match
+Williamstown,single,2 bed house,36,595,3016,-37.863743,144.888461,match
+Williamstown,single,3 Bed House,91,720,3016,-37.863743,144.888461,match
+Williamstown,single,4 bed house,36,950,3016,-37.863743,144.888461,match
+Wodonga,single,1 Bed Flat,43,260,3689,-37.67576,144.989793,match
+Wodonga,single,1 Bed Flat,43,260,3690,-36.135717,146.864361,match
+Wodonga,single,2 Bed Flat,202,345,3689,-37.67576,144.989793,match
+Wodonga,single,2 Bed Flat,202,345,3690,-36.135717,146.864361,match
+Wodonga,single,3 bed flat,67,400,3689,-37.67576,144.989793,match
+Wodonga,single,3 bed flat,67,400,3690,-36.135717,146.864361,match
+Wodonga,single,2 bed house,40,380,3689,-37.67576,144.989793,match
+Wodonga,single,2 bed house,40,380,3690,-36.135717,146.864361,match
+Wodonga,single,3 Bed House,434,450,3689,-37.67576,144.989793,match
+Wodonga,single,3 Bed House,434,450,3690,-36.135717,146.864361,match
+Wodonga,single,4 bed house,283,540,3689,-37.67576,144.989793,match
+Wodonga,single,4 bed house,283,540,3690,-36.135717,146.864361,match
